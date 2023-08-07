@@ -1,0 +1,1300 @@
+<?xml version="1.0"?>
+<ProfileVersion version = "Beta 2"/>
+<Chunk name = "audio">
+
+	<Key name="vol.voice"		value = "0" />
+	<Key name="vol.music"		value = "100" />
+	<Key name="music.trackindex"		value = "42" />
+	<Key name="voice.outputtype"		value = "0" />
+	<Key name="vol.sfx"		value = "20" />
+
+</Chunk>
+
+<Chunk name = "festival">
+
+	<Key name="eliminator.unlocked"		value = "1" />
+	<Key name="medals.silverplusgold"		value = "14" />
+	<Key name="rank.speed"		value = "0" />
+	<Key name="medals.bronze"		value = "0" />
+	<Key name="medals.gold.speed"		value = "1" />
+	<Key name="speed.unlocked"		value = "4" />
+	<Key name="rank.skill"		value = "0" />
+	<Key name="wins.eliminator"		value = "1" />
+	<Key name="aggressionpoints"		value = "29" />
+	<Key name="medals.gold.races"		value = "10" />
+	<Key name="speedpoints"		value = "42" />
+	<Key name="trophy.overachiever.progress"		value = "2" />
+	<Key name="skillpoints"		value = "14" />
+	<Key name="wins.speed"		value = "1" />
+	<Key name="medals.silver"		value = "2" />
+	<Key name="medals.gold.eliminator"		value = "1" />
+	<Key name="medals.gold"		value = "12" />
+	<Key name="rank"		value = "3" />
+	<Key name="player.points"		value = "1350" />
+	<Key name="rank.aggression"		value = "0" />
+
+</Chunk>
+
+<Chunk name = "gagdata">
+
+	<Key name="gagvariables.animatedobject"		value = "1" />
+	<Key name="gagvariables."		value = "0" />
+
+</Chunk>
+
+<Chunk name = "garage">
+
+	<Key name="character.name.m_hero7_lv01"		value = "m_hero7_LV01" />
+	<Key name="livery.bigrig02_lv03.avail"		value = "0" />
+	<Key name="livery.racetruck03_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger20_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar07_lv11.avail"		value = "1" />
+	<Key name="livery.rallycar23_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_casual_rig_lv01"		value = "1" />
+	<Key name="vehicle.monster.choice"		value = "monster20_LV04" />
+	<Key name="character.avail.f_casual_rig_lv02"		value = "1" />
+	<Key name="livery.atv01_lv03.avail"		value = "1" />
+	<Key name="character.avail.f_casual_rig_lv03"		value = "1" />
+	<Key name="character.avail.f_casual_rig_lv04"		value = "1" />
+	<Key name="character.avail.f_casual_rig_lv05"		value = "1" />
+	<Key name="livery.mudplugger03_lv03.avail"		value = "0" />
+	<Key name="character.avail.f_casual_rig_lv06"		value = "1" />
+	<Key name="livery.atv25_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_casual_rig_lv07"		value = "1" />
+	<Key name="character.name.m_semigen2_d_lv01"		value = "m_SemiGen2_d_LV01" />
+	<Key name="livery.racetruck20_lv02.avail"		value = "0" />
+	<Key name="livery.buggy01_lv03.avail"		value = "1" />
+	<Key name="livery.monster24_lv04.avail"		value = "0" />
+	<Key name="livery.rallycar24_lv06.avail"		value = "0" />
+	<Key name="character.name.f_one_piece_rig_lv01"		value = "f_one_piece_rig_LV01" />
+	<Key name="character.name.f_one_piece_rig_lv02"		value = "f_one_piece_rig_LV02" />
+	<Key name="character.avail.f_hero4_lv01"		value = "0" />
+	<Key name="character.avail.f_semigen2_a_lv01"		value = "0" />
+	<Key name="character.name.f_one_piece_rig_lv03"		value = "f_one_piece_rig_LV03" />
+	<Key name="livery.buggy25_lv01.avail"		value = "1" />
+	<Key name="character.name.f_one_piece_rig_lv04"		value = "f_one_piece_rig_LV04" />
+	<Key name="character.name.f_one_piece_rig_lv05"		value = "f_one_piece_rig_LV05" />
+	<Key name="character.name.f_one_piece_rig_lv06"		value = "f_one_piece_rig_LV06" />
+	<Key name="livery.mudplugger20_lv03.avail"		value = "0" />
+	<Key name="livery.monster23_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar23_lv03.avail"		value = "0" />
+	<Key name="vehicle.mudplugger.choice"		value = "mudplugger22_LV01" />
+	<Key name="livery.bike02_lv02.avail"		value = "0" />
+	<Key name="livery.bigrig01_lv02.avail"		value = "1" />
+	<Key name="livery.racetruck02_lv01.avail"		value = "0" />
+	<Key name="vehicle.racetruck.usage"		value = "2" />
+	<Key name="character.avail.m_hero4_lv01"		value = "0" />
+	<Key name="livery.atv25_lv03.avail"		value = "0" />
+	<Key name="livery.rallycar06_lv10.avail"		value = "0" />
+	<Key name="character.name.f_semigen4_d_lv01"		value = "f_SemiGen4_d_LV01" />
+	<Key name="livery.monster24_lv06.avail"		value = "0" />
+	<Key name="livery.buggy25_lv03.avail"		value = "1" />
+	<Key name="livery.mudplugger02_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_semigen3_d_lv01"		value = "0" />
+	<Key name="livery.rallycar05_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger20_lv05.avail"		value = "0" />
+	<Key name="livery.monster23_lv03.avail"		value = "0" />
+	<Key name="livery.rallycar23_lv05.avail"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv01"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv02"		value = "0" />
+	<Key name="character.name.f_hero8_lv01"		value = "f_hero8_LV01" />
+	<Key name="character.avail.f_sparco_rig_lv03"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv04"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv05"		value = "0" />
+	<Key name="livery.racetruck02_lv03.avail"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv06"		value = "0" />
+	<Key name="character.name.f_semigen1_b_lv01"		value = "f_SemiGen1_b_LV01" />
+	<Key name="character.avail.f_sparco_rig_lv07"		value = "0" />
+	<Key name="livery.rallycar06_lv12.avail"		value = "0" />
+	<Key name="character.avail.f_sparco_rig_lv08"		value = "0" />
+	<Key name="livery.rallycar22_lv02.avail"		value = "1" />
+	<Key name="character.name.m_semigen4_c_lv01"		value = "m_SemiGen4_c_LV01" />
+	<Key name="livery.bigrig25_lv02.avail"		value = "1" />
+	<Key name="livery.bike01_lv01.avail"		value = "1" />
+	<Key name="livery.monster23_lv04.avail"		value = "0" />
+	<Key name="vehicle.bigrig.usage"		value = "3" />
+	<Key name="character.name.m_hero8_lv01"		value = "m_hero8_LV01" />
+	<Key name="livery.buggy24_lv01.avail"		value = "0" />
+	<Key name="livery.atv24_lv02.avail"		value = "1" />
+	<Key name="character.name.m_semigen3_d_lv01"		value = "m_SemiGen3_d_LV01" />
+	<Key name="livery.monster22_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar22_lv03.avail"		value = "1" />
+	<Key name="livery.bigrig25_lv03.avail"		value = "1" />
+	<Key name="livery.bike01_lv02.avail"		value = "1" />
+	<Key name="livery.monster23_lv05.avail"		value = "0" />
+	<Key name="character.name.f_sparco_rig_lv01"		value = "f_sparco_rig_LV01" />
+	<Key name="character.name.f_sparco_rig_lv02"		value = "f_sparco_rig_LV02" />
+	<Key name="livery.buggy24_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger01_lv01.avail"		value = "1" />
+	<Key name="livery.racetruck01_lv01.avail"		value = "1" />
+	<Key name="character.avail.f_semigen3_a_lv01"		value = "0" />
+	<Key name="character.name.f_sparco_rig_lv03"		value = "f_sparco_rig_LV03" />
+	<Key name="livery.rallycar04_lv01.avail"		value = "0" />
+	<Key name="character.name.f_sparco_rig_lv04"		value = "f_sparco_rig_LV04" />
+	<Key name="character.name.m_semigen1_a_lv01"		value = "m_SemiGen1_a_LV01" />
+	<Key name="livery.atv24_lv03.avail"		value = "1" />
+	<Key name="vehicle.mudplugger.usage"		value = "4" />
+	<Key name="character.name.f_sparco_rig_lv05"		value = "f_sparco_rig_LV05" />
+	<Key name="livery.bigrig08_lv10.avail"		value = "1" />
+	<Key name="character.name.f_sparco_rig_lv06"		value = "f_sparco_rig_LV06" />
+	<Key name="livery.monster22_lv02.avail"		value = "0" />
+	<Key name="character.name.f_sparco_rig_lv07"		value = "f_sparco_rig_LV07" />
+	<Key name="livery.bike01_lv03.avail"		value = "1" />
+	<Key name="character.name.f_sparco_rig_lv08"		value = "f_sparco_rig_LV08" />
+	<Key name="vehicle.mudplugger.wins"		value = "2" />
+	<Key name="character.avail.f_hero5_lv01"		value = "0" />
+	<Key name="character.avail.f_semigen2_b_lv01"		value = "0" />
+	<Key name="livery.atv07_lv10.avail"		value = "0" />
+	<Key name="livery.buggy24_lv03.avail"		value = "0" />
+	<Key name="livery.mudplugger01_lv02.avail"		value = "1" />
+	<Key name="livery.racetruck01_lv02.avail"		value = "1" />
+	<Key name="livery.rallycar04_lv02.avail"		value = "0" />
+	<Key name="livery.atv24_lv04.avail"		value = "1" />
+	<Key name="livery.bigrig08_lv11.avail"		value = "1" />
+	<Key name="livery.rallycar21_lv01.avail"		value = "0" />
+	<Key name="livery.bigrig24_lv01.avail"		value = "0" />
+	<Key name="livery.monster22_lv03.avail"		value = "0" />
+	<Key name="character.avail.f_one_piece_rig_lv01"		value = "0" />
+	<Key name="character.avail.f_one_piece_rig_lv02"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv01"		value = "1" />
+	<Key name="character.avail.f_one_piece_rig_lv03"		value = "1" />
+	<Key name="character.avail.m_casual_rig_lv02"		value = "1" />
+	<Key name="livery.buggy07_lv10.avail"		value = "0" />
+	<Key name="character.avail.f_one_piece_rig_lv04"		value = "0" />
+	<Key name="character.avail.f_semigen1_c_lv01"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv03"		value = "1" />
+	<Key name="character.avail.f_one_piece_rig_lv05"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv04"		value = "1" />
+	<Key name="livery.atv07_lv11.avail"		value = "0" />
+	<Key name="livery.mudplugger01_lv03.avail"		value = "1" />
+	<Key name="livery.racetruck01_lv03.avail"		value = "1" />
+	<Key name="character.avail.f_one_piece_rig_lv06"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv05"		value = "1" />
+	<Key name="livery.atv23_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar04_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv06"		value = "1" />
+	<Key name="character.avail.m_hero5_lv01"		value = "0" />
+	<Key name="character.avail.m_semigen4_d_lv01"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv07"		value = "1" />
+	<Key name="character.name.f_semigen3_a_lv01"		value = "f_SemiGen3_a_LV01" />
+	<Key name="livery.bigrig08_lv12.avail"		value = "1" />
+	<Key name="livery.rallycar21_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_casual_rig_lv08"		value = "1" />
+	<Key name="livery.bigrig24_lv02.avail"		value = "0" />
+	<Key name="livery.monster22_lv04.avail"		value = "0" />
+	<Key name="livery.mudplugger25_lv01.avail"		value = "1" />
+	<Key name="livery.racetruck25_lv01.avail"		value = "1" />
+	<Key name="character.avail.m_casual_rig_lv09"		value = "1" />
+	<Key name="character.name.f_hero4_lv01"		value = "f_hero4_LV01" />
+	<Key name="livery.buggy07_lv11.avail"		value = "0" />
+	<Key name="livery.buggy23_lv01.avail"		value = "0" />
+	<Key name="character.avail.m_semigen2_a_lv01"		value = "0" />
+	<Key name="livery.atv07_lv12.avail"		value = "0" />
+	<Key name="livery.atv23_lv02.avail"		value = "0" />
+	<Key name="character.name.f_semigen2_b_lv01"		value = "f_SemiGen2_b_LV01" />
+	<Key name="livery.monster21_lv01.avail"		value = "1" />
+	<Key name="livery.rallycar21_lv03.avail"		value = "0" />
+	<Key name="livery.monster22_lv05.avail"		value = "0" />
+	<Key name="livery.mudplugger25_lv02.avail"		value = "1" />
+	<Key name="livery.racetruck25_lv02.avail"		value = "1" />
+	<Key name="livery.bike08_lv10.avail"		value = "1" />
+	<Key name="livery.buggy07_lv12.avail"		value = "0" />
+	<Key name="character.avail.m_semigen1_b_lv01"		value = "0" />
+	<Key name="character.name.m_casual_rig_lv01"		value = "m_casual_rig_LV01" />
+	<Key name="character.name.m_hero4_lv01"		value = "m_hero4_LV01" />
+	<Key name="livery.buggy23_lv02.avail"		value = "0" />
+	<Key name="character.name.m_casual_rig_lv02"		value = "m_casual_rig_LV02" />
+	<Key name="livery.rallycar03_lv01.avail"		value = "0" />
+	<Key name="vehicle.racetruck.choice"		value = "racetruck23_LV02" />
+	<Key name="character.name.f_semigen1_c_lv01"		value = "f_SemiGen1_c_LV01" />
+	<Key name="character.name.m_casual_rig_lv03"		value = "m_casual_rig_LV03" />
+	<Key name="livery.atv23_lv03.avail"		value = "0" />
+	<Key name="character.name.m_casual_rig_lv04"		value = "m_casual_rig_LV04" />
+	<Key name="livery.bigrig07_lv10.avail"		value = "0" />
+	<Key name="character.name.m_casual_rig_lv05"		value = "m_casual_rig_LV05" />
+	<Key name="livery.monster21_lv02.avail"		value = "1" />
+	<Key name="character.name.m_casual_rig_lv06"		value = "m_casual_rig_LV06" />
+	<Key name="character.name.m_semigen4_d_lv01"		value = "m_SemiGen4_d_LV01" />
+	<Key name="livery.monster22_lv06.avail"		value = "0" />
+	<Key name="livery.mudplugger25_lv03.avail"		value = "1" />
+	<Key name="livery.racetruck25_lv03.avail"		value = "1" />
+	<Key name="character.name.m_casual_rig_lv07"		value = "m_casual_rig_LV07" />
+	<Key name="character.name.m_casual_rig_lv08"		value = "m_casual_rig_LV08" />
+	<Key name="character.name.m_casual_rig_lv09"		value = "m_casual_rig_LV09" />
+	<Key name="livery.atv05_lv01.avail"		value = "0" />
+	<Key name="livery.bike08_lv11.avail"		value = "1" />
+	<Key name="vehicle.bike.choice"		value = "bike21_LV01" />
+	<Key name="livery.atv06_lv10.avail"		value = "1" />
+	<Key name="livery.bike24_lv01.avail"		value = "0" />
+	<Key name="livery.buggy23_lv03.avail"		value = "0" />
+	<Key name="livery.rallycar03_lv02.avail"		value = "0" />
+	<Key name="character.avail.f_semigen4_a_lv01"		value = "0" />
+	<Key name="livery.atv23_lv04.avail"		value = "0" />
+	<Key name="character.name.m_semigen2_a_lv01"		value = "m_SemiGen2_a_LV01" />
+	<Key name="livery.bigrig07_lv11.avail"		value = "0" />
+	<Key name="livery.rallycar20_lv01.avail"		value = "0" />
+	<Key name="livery.bigrig23_lv01.avail"		value = "1" />
+	<Key name="livery.monster21_lv03.avail"		value = "1" />
+	<Key name="character.avail.m_sparco_rig_lv01"		value = "0" />
+	<Key name="livery.buggy05_lv01.avail"		value = "0" />
+	<Key name="vehicle.racetruck.wins"		value = "2" />
+	<Key name="character.avail.m_sparco_rig_lv02"		value = "1" />
+	<Key name="livery.buggy06_lv10.avail"		value = "1" />
+	<Key name="character.avail.m_sparco_rig_lv03"		value = "0" />
+	<Key name="livery.atv05_lv02.avail"		value = "0" />
+	<Key name="livery.bike08_lv12.avail"		value = "1" />
+	<Key name="character.avail.f_hero1_lv01"		value = "0" />
+	<Key name="character.avail.m_sparco_rig_lv04"		value = "0" />
+	<Key name="livery.atv06_lv11.avail"		value = "1" />
+	<Key name="livery.bike24_lv02.avail"		value = "0" />
+	<Key name="livery.buggy23_lv04.avail"		value = "0" />
+	<Key name="character.avail.f_semigen3_b_lv01"		value = "0" />
+	<Key name="character.avail.m_sparco_rig_lv05"		value = "0" />
+	<Key name="livery.atv22_lv01.avail"		value = "1" />
+	<Key name="livery.rallycar03_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_sparco_rig_lv06"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv01"		value = "f_exo_rig_LV01" />
+	<Key name="character.name.m_semigen1_b_lv01"		value = "m_SemiGen1_b_LV01" />
+	<Key name="character.avail.m_sparco_rig_lv07"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv02"		value = "f_exo_rig_LV02" />
+	<Key name="livery.bigrig07_lv12.avail"		value = "0" />
+	<Key name="livery.rallycar20_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_x_movie_rig_lv01"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv03"		value = "f_exo_rig_LV03" />
+	<Key name="livery.bigrig23_lv02.avail"		value = "1" />
+	<Key name="livery.monster21_lv04.avail"		value = "1" />
+	<Key name="livery.mudplugger24_lv01.avail"		value = "0" />
+	<Key name="livery.racetruck24_lv01.avail"		value = "1" />
+	<Key name="character.avail.m_x_movie_rig_lv02"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv04"		value = "f_exo_rig_LV04" />
+	<Key name="character.avail.m_x_movie_rig_lv03"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv05"		value = "f_exo_rig_LV05" />
+	<Key name="livery.buggy05_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_x_movie_rig_lv04"		value = "0" />
+	<Key name="character.name.f_exo_rig_lv06"		value = "f_exo_rig_LV06" />
+	<Key name="livery.buggy06_lv11.avail"		value = "1" />
+	<Key name="character.avail.m_x_movie_rig_lv05"		value = "0" />
+	<Key name="livery.atv05_lv03.avail"		value = "0" />
+	<Key name="livery.buggy22_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_hero6_lv01"		value = "0" />
+	<Key name="character.avail.f_semigen2_c_lv01"		value = "0" />
+	<Key name="character.avail.m_x_movie_rig_lv06"		value = "0" />
+	<Key name="livery.atv06_lv12.avail"		value = "1" />
+	<Key name="livery.bike24_lv03.avail"		value = "0" />
+	<Key name="livery.atv22_lv02.avail"		value = "1" />
+	<Key name="character.avail.m_hero1_lv01"		value = "0" />
+	<Key name="vehicleunlocks"		value = "0" />
+	<Key name="livery.monster20_lv01.avail"		value = "1" />
+	<Key name="livery.rallycar20_lv03.avail"		value = "0" />
+	<Key name="character.name.f_semigen4_a_lv01"		value = "f_SemiGen4_a_LV01" />
+	<Key name="livery.bigrig23_lv03.avail"		value = "1" />
+	<Key name="livery.monster21_lv05.avail"		value = "1" />
+	<Key name="livery.mudplugger24_lv02.avail"		value = "0" />
+	<Key name="livery.racetruck24_lv02.avail"		value = "1" />
+	<Key name="livery.buggy05_lv03.avail"		value = "0" />
+	<Key name="livery.bike07_lv10.avail"		value = "0" />
+	<Key name="livery.buggy06_lv12.avail"		value = "1" />
+	<Key name="character.avail.f_semigen1_d_lv01"		value = "0" />
+	<Key name="character.name.m_sparco_rig_lv01"		value = "m_sparco_rig_LV01" />
+	<Key name="livery.buggy22_lv02.avail"		value = "0" />
+	<Key name="character.name.m_sparco_rig_lv02"		value = "m_sparco_rig_LV02" />
+	<Key name="livery.bike24_lv04.avail"		value = "0" />
+	<Key name="livery.rallycar02_lv01.avail"		value = "0" />
+	<Key name="character.avail.m_semigen3_a_lv01"		value = "0" />
+	<Key name="character.name.m_sparco_rig_lv03"		value = "m_sparco_rig_LV03" />
+	<Key name="livery.atv22_lv03.avail"		value = "1" />
+	<Key name="livery.bigrig05_lv01.avail"		value = "0" />
+	<Key name="character.avail.m_hero6_lv01"		value = "0" />
+	<Key name="character.name.m_sparco_rig_lv04"		value = "m_sparco_rig_LV04" />
+	<Key name="livery.bigrig06_lv10.avail"		value = "0" />
+	<Key name="character.name.f_semigen3_b_lv01"		value = "f_SemiGen3_b_LV01" />
+	<Key name="character.name.m_exo_rig_lv01"		value = "m_exo_rig_LV01" />
+	<Key name="character.name.m_sparco_rig_lv05"		value = "m_sparco_rig_LV05" />
+	<Key name="livery.monster20_lv02.avail"		value = "1" />
+	<Key name="livery.rallycar20_lv04.avail"		value = "0" />
+	<Key name="character.name.m_exo_rig_lv02"		value = "m_exo_rig_LV02" />
+	<Key name="character.name.m_sparco_rig_lv06"		value = "m_sparco_rig_LV06" />
+	<Key name="livery.mudplugger24_lv03.avail"		value = "0" />
+	<Key name="livery.racetruck24_lv03.avail"		value = "1" />
+	<Key name="character.name.m_exo_rig_lv03"		value = "m_exo_rig_LV03" />
+	<Key name="character.name.m_sparco_rig_lv07"		value = "m_sparco_rig_LV07" />
+	<Key name="livery.monster27_lv01.avail"		value = "1" />
+	<Key name="vehicle.buggy.unlocked"		value = "TRUE" />
+	<Key name="character.name.f_hero5_lv01"		value = "f_hero5_LV01" />
+	<Key name="character.name.m_exo_rig_lv04"		value = "m_exo_rig_LV04" />
+	<Key name="character.name.m_exo_rig_lv05"		value = "m_exo_rig_LV05" />
+	<Key name="livery.atv04_lv01.avail"		value = "0" />
+	<Key name="livery.bike07_lv11.avail"		value = "0" />
+	<Key name="character.name.m_exo_rig_lv06"		value = "m_exo_rig_LV06" />
+	<Key name="livery.bike23_lv01.avail"		value = "1" />
+	<Key name="livery.buggy22_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_semigen2_b_lv01"		value = "0" />
+	<Key name="character.name.m_exo_rig_lv07"		value = "m_exo_rig_LV07" />
+	<Key name="livery.rallycar02_lv02.avail"		value = "0" />
+	<Key name="livery.bigrig05_lv02.avail"		value = "0" />
+	<Key name="vehicle.bike.wins"		value = "2" />
+	<Key name="character.avail.f_street_rig_lv01"		value = "0" />
+	<Key name="character.name.f_semigen2_c_lv01"		value = "f_SemiGen2_c_LV01" />
+	<Key name="livery.bigrig06_lv11.avail"		value = "0" />
+	<Key name="livery.mudplugger07_lv10.avail"		value = "1" />
+	<Key name="livery.racetruck07_lv10.avail"		value = "1" />
+	<Key name="character.avail.f_street_rig_lv02"		value = "0" />
+	<Key name="livery.bigrig22_lv01.avail"		value = "1" />
+	<Key name="livery.monster20_lv03.avail"		value = "1" />
+	<Key name="avatar"		value = "m_exo_rig_lv06" />
+	<Key name="character.avail.f_street_rig_lv03"		value = "1" />
+	<Key name="character.avail.f_street_rig_lv04"		value = "0" />
+	<Key name="livery.buggy04_lv01.avail"		value = "0" />
+	<Key name="livery.monster27_lv02.avail"		value = "1" />
+	<Key name="character.avail.f_street_rig_lv05"		value = "0" />
+	<Key name="character.avail.f_street_rig_lv06"		value = "0" />
+	<Key name="livery.atv04_lv02.avail"		value = "0" />
+	<Key name="livery.bike07_lv12.avail"		value = "0" />
+	<Key name="character.avail.m_semigen1_c_lv01"		value = "0" />
+	<Key name="character.name.m_hero5_lv01"		value = "m_hero5_LV01" />
+	<Key name="livery.bike23_lv02.avail"		value = "1" />
+	<Key name="livery.buggy22_lv04.avail"		value = "0" />
+	<Key name="livery.atv21_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar02_lv03.avail"		value = "0" />
+	<Key name="character.name.f_semigen1_d_lv01"		value = "f_SemiGen1_d_LV01" />
+	<Key name="livery.bigrig05_lv03.avail"		value = "0" />
+	<Key name="livery.bigrig06_lv12.avail"		value = "0" />
+	<Key name="livery.mudplugger07_lv11.avail"		value = "1" />
+	<Key name="livery.racetruck07_lv11.avail"		value = "1" />
+	<Key name="character.name.m_semigen3_a_lv01"		value = "m_SemiGen3_a_LV01" />
+	<Key name="livery.bigrig22_lv02.avail"		value = "1" />
+	<Key name="livery.monster20_lv04.avail"		value = "1" />
+	<Key name="livery.mudplugger23_lv01.avail"		value = "0" />
+	<Key name="livery.racetruck23_lv01.avail"		value = "1" />
+	<Key name="livery.buggy04_lv02.avail"		value = "0" />
+	<Key name="livery.monster27_lv03.avail"		value = "1" />
+	<Key name="livery.atv04_lv03.avail"		value = "0" />
+	<Key name="livery.buggy21_lv01.avail"		value = "0" />
+	<Key name="livery.bike23_lv03.avail"		value = "1" />
+	<Key name="livery.atv21_lv02.avail"		value = "0" />
+	<Key name="character.avail.f_semigen4_b_lv01"		value = "0" />
+	<Key name="character.name.m_semigen2_b_lv01"		value = "m_SemiGen2_b_LV01" />
+	<Key name="livery.mudplugger07_lv12.avail"		value = "1" />
+	<Key name="livery.racetruck07_lv12.avail"		value = "1" />
+	<Key name="vehicle.buggy.usage"		value = "7" />
+	<Key name="vehicle.rallycar.unlocked"		value = "TRUE" />
+	<Key name="livery.bigrig22_lv03.avail"		value = "1" />
+	<Key name="livery.monster20_lv05.avail"		value = "1" />
+	<Key name="livery.mudplugger23_lv02.avail"		value = "0" />
+	<Key name="livery.racetruck23_lv02.avail"		value = "1" />
+	<Key name="character.name.f_street_rig_lv01"		value = "f_street_rig_LV01" />
+	<Key name="character.name.f_street_rig_lv02"		value = "f_street_rig_LV02" />
+	<Key name="livery.bike05_lv01.avail"		value = "0" />
+	<Key name="livery.buggy04_lv03.avail"		value = "0" />
+	<Key name="livery.monster27_lv04.avail"		value = "1" />
+	<Key name="character.name.f_street_rig_lv03"		value = "f_street_rig_LV03" />
+	<Key name="livery.bike06_lv10.avail"		value = "0" />
+	<Key name="character.name.f_street_rig_lv04"		value = "f_street_rig_LV04" />
+	<Key name="livery.buggy21_lv02.avail"		value = "0" />
+	<Key name="character.avail.f_hero2_lv01"		value = "0" />
+	<Key name="character.name.f_street_rig_lv05"		value = "f_street_rig_LV05" />
+	<Key name="livery.bike23_lv04.avail"		value = "1" />
+	<Key name="livery.rallycar01_lv01.avail"		value = "0" />
+	<Key name="vehicle.bigrig.wins"		value = "2" />
+	<Key name="character.avail.f_semigen3_c_lv01"		value = "0" />
+	<Key name="character.name.f_street_rig_lv06"		value = "f_street_rig_LV06" />
+	<Key name="livery.atv21_lv03.avail"		value = "0" />
+	<Key name="livery.bigrig04_lv01.avail"		value = "0" />
+	<Key name="character.name.m_semigen1_c_lv01"		value = "m_SemiGen1_c_LV01" />
+	<Key name="livery.bigrig22_lv04.avail"		value = "1" />
+	<Key name="livery.mudplugger23_lv03.avail"		value = "0" />
+	<Key name="livery.racetruck23_lv03.avail"		value = "1" />
+	<Key name="livery.monster26_lv01.avail"		value = "0" />
+	<Key name="livery.bike05_lv02.avail"		value = "0" />
+	<Key name="livery.monster27_lv05.avail"		value = "1" />
+	<Key name="livery.atv03_lv01.avail"		value = "0" />
+	<Key name="livery.bike06_lv11.avail"		value = "0" />
+	<Key name="livery.bike22_lv01.avail"		value = "0" />
+	<Key name="livery.buggy21_lv03.avail"		value = "0" />
+	<Key name="vehicle.mudplugger.unlocked"		value = "TRUE" />
+	<Key name="character.avail.f_hero7_lv01"		value = "0" />
+	<Key name="character.avail.f_semigen2_d_lv01"		value = "0" />
+	<Key name="livery.bike23_lv05.avail"		value = "1" />
+	<Key name="livery.rallycar01_lv02.avail"		value = "0" />
+	<Key name="livery.bigrig04_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger05_lv01.avail"		value = "0" />
+	<Key name="livery.racetruck05_lv01.avail"		value = "0" />
+	<Key name="character.avail.m_hero2_lv01"		value = "0" />
+	<Key name="character.avail.m_semigen4_a_lv01"		value = "0" />
+	<Key name="livery.mudplugger06_lv10.avail"		value = "0" />
+	<Key name="livery.racetruck06_lv10.avail"		value = "0" />
+	<Key name="livery.bigrig21_lv01.avail"		value = "0" />
+	<Key name="character.name.f_semigen4_b_lv01"		value = "f_SemiGen4_b_LV01" />
+	<Key name="livery.bigrig22_lv05.avail"		value = "1" />
+	<Key name="livery.mudplugger23_lv04.avail"		value = "0" />
+	<Key name="livery.racetruck23_lv04.avail"		value = "1" />
+	<Key name="livery.buggy03_lv01.avail"		value = "0" />
+	<Key name="livery.monster26_lv02.avail"		value = "0" />
+	<Key name="character.name.f_hero1_lv01"		value = "f_hero1_LV01" />
+	<Key name="livery.bike05_lv03.avail"		value = "0" />
+	<Key name="vehicle.bike.usage"		value = "7" />
+	<Key name="livery.atv03_lv02.avail"		value = "0" />
+	<Key name="livery.bike06_lv12.avail"		value = "0" />
+	<Key name="livery.bike22_lv02.avail"		value = "0" />
+	<Key name="livery.atv20_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar01_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_semigen3_b_lv01"		value = "0" />
+	<Key name="livery.bigrig04_lv03.avail"		value = "0" />
+	<Key name="livery.mudplugger05_lv02.avail"		value = "0" />
+	<Key name="livery.racetruck05_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_hero7_lv01"		value = "0" />
+	<Key name="livery.mudplugger06_lv11.avail"		value = "0" />
+	<Key name="livery.racetruck06_lv11.avail"		value = "0" />
+	<Key name="character.name.f_semigen3_c_lv01"		value = "f_SemiGen3_c_LV01" />
+	<Key name="livery.bigrig21_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger22_lv01.avail"		value = "1" />
+	<Key name="livery.racetruck22_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar25_lv01.avail"		value = "1" />
+	<Key name="vehicle.buggy.wins"		value = "4" />
+	<Key name="livery.buggy03_lv02.avail"		value = "0" />
+	<Key name="livery.monster26_lv03.avail"		value = "0" />
+	<Key name="character.name.f_hero6_lv01"		value = "f_hero6_LV01" />
+	<Key name="livery.atv03_lv03.avail"		value = "0" />
+	<Key name="livery.buggy20_lv01.avail"		value = "1" />
+	<Key name="character.name.m_hero1_lv01"		value = "m_hero1_LV01" />
+	<Key name="livery.bike22_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_semigen2_c_lv01"		value = "0" />
+	<Key name="livery.atv20_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger05_lv03.avail"		value = "0" />
+	<Key name="livery.racetruck05_lv03.avail"		value = "0" />
+	<Key name="character.name.f_semigen2_d_lv01"		value = "f_SemiGen2_d_LV01" />
+	<Key name="livery.mudplugger06_lv12.avail"		value = "0" />
+	<Key name="livery.racetruck06_lv12.avail"		value = "0" />
+	<Key name="livery.bigrig21_lv03.avail"		value = "0" />
+	<Key name="livery.mudplugger22_lv02.avail"		value = "1" />
+	<Key name="livery.racetruck22_lv02.avail"		value = "0" />
+	<Key name="character.name.m_semigen4_a_lv01"		value = "m_SemiGen4_a_LV01" />
+	<Key name="livery.rallycar25_lv02.avail"		value = "1" />
+	<Key name="livery.bike04_lv01.avail"		value = "0" />
+	<Key name="livery.buggy03_lv03.avail"		value = "0" />
+	<Key name="livery.monster26_lv04.avail"		value = "0" />
+	<Key name="livery.buggy20_lv02.avail"		value = "1" />
+	<Key name="character.avail.m_semigen1_d_lv01"		value = "0" />
+	<Key name="character.name.m_hero6_lv01"		value = "m_hero6_LV01" />
+	<Key name="livery.bike22_lv04.avail"		value = "0" />
+	<Key name="vehicle.bike.unlocked"		value = "TRUE" />
+	<Key name="livery.atv20_lv03.avail"		value = "0" />
+	<Key name="livery.bigrig03_lv01.avail"		value = "0" />
+	<Key name="character.name.m_semigen3_b_lv01"		value = "m_SemiGen3_b_LV01" />
+	<Key name="livery.mudplugger22_lv03.avail"		value = "1" />
+	<Key name="livery.racetruck22_lv03.avail"		value = "0" />
+	<Key name="livery.monster25_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_exo_rig_lv01"		value = "1" />
+	<Key name="livery.bike04_lv02.avail"		value = "0" />
+	<Key name="livery.monster26_lv05.avail"		value = "0" />
+	<Key name="character.avail.f_exo_rig_lv02"		value = "1" />
+	<Key name="livery.atv02_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_exo_rig_lv03"		value = "1" />
+	<Key name="livery.bike21_lv01.avail"		value = "1" />
+	<Key name="livery.buggy20_lv03.avail"		value = "1" />
+	<Key name="character.avail.f_exo_rig_lv04"		value = "1" />
+	<Key name="livery.bike22_lv05.avail"		value = "0" />
+	<Key name="vehicle.bigrig.unlocked"		value = "TRUE" />
+	<Key name="character.avail.f_exo_rig_lv05"		value = "1" />
+	<Key name="livery.atv20_lv04.avail"		value = "0" />
+	<Key name="livery.bigrig03_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger04_lv01.avail"		value = "0" />
+	<Key name="livery.racetruck04_lv01.avail"		value = "0" />
+	<Key name="character.avail.f_exo_rig_lv06"		value = "1" />
+	<Key name="character.avail.f_semigen4_c_lv01"		value = "0" />
+	<Key name="character.avail.m_street_rig_lv01"		value = "0" />
+	<Key name="character.name.m_semigen2_c_lv01"		value = "m_SemiGen2_c_LV01" />
+	<Key name="livery.bigrig20_lv01.avail"		value = "1" />
+	<Key name="character.avail.m_street_rig_lv02"		value = "0" />
+	<Key name="livery.racetruck22_lv04.avail"		value = "0" />
+	<Key name="vehicle.rallycar.choice"		value = "rallycar25_LV01" />
+	<Key name="character.avail.m_street_rig_lv03"		value = "0" />
+	<Key name="livery.buggy02_lv01.avail"		value = "0" />
+	<Key name="livery.monster25_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_street_rig_lv04"		value = "0" />
+	<Key name="livery.bike04_lv03.avail"		value = "0" />
+	<Key name="vehicle.bigrig.choice"		value = "bigrig20_LV01" />
+	<Key name="character.avail.m_street_rig_lv05"		value = "1" />
+	<Key name="character.name.m_x_movie_rig_lv01"		value = "m_x_movie_rig_LV01" />
+	<Key name="livery.atv02_lv02.avail"		value = "0" />
+	<Key name="vehicle.atv.unlocked"		value = "TRUE" />
+	<Key name="character.avail.m_street_rig_lv06"		value = "0" />
+	<Key name="character.name.m_x_movie_rig_lv02"		value = "m_x_movie_rig_LV02" />
+	<Key name="livery.bike21_lv02.avail"		value = "1" />
+	<Key name="livery.buggy20_lv04.avail"		value = "1" />
+	<Key name="character.avail.f_hero3_lv01"		value = "0" />
+	<Key name="character.avail.m_street_rig_lv07"		value = "0" />
+	<Key name="character.name.m_x_movie_rig_lv03"		value = "m_x_movie_rig_LV03" />
+	<Key name="character.avail.f_semigen3_d_lv01"		value = "0" />
+	<Key name="character.name.m_x_movie_rig_lv04"		value = "m_x_movie_rig_LV04" />
+	<Key name="livery.bigrig03_lv03.avail"		value = "0" />
+	<Key name="livery.mudplugger04_lv02.avail"		value = "0" />
+	<Key name="livery.racetruck04_lv02.avail"		value = "0" />
+	<Key name="character.name.m_semigen1_d_lv01"		value = "m_SemiGen1_d_LV01" />
+	<Key name="character.name.m_x_movie_rig_lv05"		value = "m_x_movie_rig_LV05" />
+	<Key name="character.name.m_x_movie_rig_lv06"		value = "m_x_movie_rig_LV06" />
+	<Key name="livery.bigrig20_lv02.avail"		value = "1" />
+	<Key name="livery.mudplugger21_lv01.avail"		value = "1" />
+	<Key name="livery.racetruck21_lv01.avail"		value = "0" />
+	<Key name="livery.rallycar24_lv01.avail"		value = "0" />
+	<Key name="livery.buggy02_lv02.avail"		value = "0" />
+	<Key name="livery.monster25_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv01"		value = "1" />
+	<Key name="livery.atv02_lv03.avail"		value = "0" />
+	<Key name="character.avail.f_semigen1_a_lv01"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv02"		value = "1" />
+	<Key name="livery.bike21_lv03.avail"		value = "1" />
+	<Key name="character.avail.f_hero8_lv01"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv03"		value = "1" />
+	<Key name="character.avail.m_exo_rig_lv04"		value = "1" />
+	<Key name="livery.mudplugger04_lv03.avail"		value = "0" />
+	<Key name="livery.racetruck04_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv05"		value = "1" />
+	<Key name="character.avail.m_hero3_lv01"		value = "0" />
+	<Key name="character.avail.m_semigen4_b_lv01"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv06"		value = "1" />
+	<Key name="livery.bigrig20_lv03.avail"		value = "1" />
+	<Key name="livery.mudplugger21_lv02.avail"		value = "1" />
+	<Key name="livery.racetruck21_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_exo_rig_lv07"		value = "1" />
+	<Key name="character.name.f_semigen4_c_lv01"		value = "f_SemiGen4_c_LV01" />
+	<Key name="livery.rallycar24_lv02.avail"		value = "0" />
+	<Key name="character.name.m_street_rig_lv01"		value = "m_street_rig_LV01" />
+	<Key name="livery.bike03_lv01.avail"		value = "0" />
+	<Key name="livery.buggy02_lv03.avail"		value = "0" />
+	<Key name="livery.monster25_lv04.avail"		value = "0" />
+	<Key name="character.name.f_hero2_lv01"		value = "f_hero2_LV01" />
+	<Key name="character.name.m_street_rig_lv02"		value = "m_street_rig_LV02" />
+	<Key name="character.name.m_street_rig_lv03"		value = "m_street_rig_LV03" />
+	<Key name="character.name.m_street_rig_lv04"		value = "m_street_rig_LV04" />
+	<Key name="livery.bike21_lv04.avail"		value = "1" />
+	<Key name="character.name.m_street_rig_lv05"		value = "m_street_rig_LV05" />
+	<Key name="livery.bigrig02_lv01.avail"		value = "0" />
+	<Key name="character.avail.m_semigen3_c_lv01"		value = "0" />
+	<Key name="character.name.m_onepiece_rig_lv01"		value = "m_onepiece_rig_LV01" />
+	<Key name="character.name.m_street_rig_lv06"		value = "m_street_rig_LV06" />
+	<Key name="character.avail.m_hero8_lv01"		value = "0" />
+	<Key name="character.name.m_onepiece_rig_lv02"		value = "m_onepiece_rig_LV02" />
+	<Key name="character.name.m_street_rig_lv07"		value = "m_street_rig_LV07" />
+	<Key name="character.name.f_semigen3_d_lv01"		value = "f_SemiGen3_d_LV01" />
+	<Key name="character.name.m_onepiece_rig_lv03"		value = "m_onepiece_rig_LV03" />
+	<Key name="livery.mudplugger21_lv03.avail"		value = "1" />
+	<Key name="livery.racetruck21_lv03.avail"		value = "0" />
+	<Key name="character.name.m_onepiece_rig_lv04"		value = "m_onepiece_rig_LV04" />
+	<Key name="livery.monster24_lv01.avail"		value = "0" />
+	<Key name="character.name.m_onepiece_rig_lv05"		value = "m_onepiece_rig_LV05" />
+	<Key name="livery.bike03_lv02.avail"		value = "0" />
+	<Key name="livery.monster25_lv05.avail"		value = "0" />
+	<Key name="character.name.f_hero7_lv01"		value = "f_hero7_LV01" />
+	<Key name="character.name.m_onepiece_rig_lv06"		value = "m_onepiece_rig_LV06" />
+	<Key name="livery.atv01_lv01.avail"		value = "1" />
+	<Key name="character.name.m_onepiece_rig_lv07"		value = "m_onepiece_rig_LV07" />
+	<Key name="character.name.m_hero2_lv01"		value = "m_hero2_LV01" />
+	<Key name="character.name.m_onepiece_rig_lv08"		value = "m_onepiece_rig_LV08" />
+	<Key name="character.avail.m_semigen2_d_lv01"		value = "0" />
+	<Key name="livery.bigrig02_lv02.avail"		value = "0" />
+	<Key name="livery.mudplugger03_lv01.avail"		value = "0" />
+	<Key name="livery.racetruck03_lv01.avail"		value = "0" />
+	<Key name="character.name.f_semigen1_a_lv01"		value = "f_SemiGen1_a_LV01" />
+	<Key name="vehicle.atv.choice"		value = "atv22_LV01" />
+	<Key name="livery.rallycar07_lv10.avail"		value = "1" />
+	<Key name="livery.racetruck21_lv04.avail"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv01"		value = "0" />
+	<Key name="character.name.m_semigen4_b_lv01"		value = "m_SemiGen4_b_LV01" />
+	<Key name="livery.buggy01_lv01.avail"		value = "1" />
+	<Key name="livery.monster24_lv02.avail"		value = "0" />
+	<Key name="livery.rallycar24_lv04.avail"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv02"		value = "0" />
+	<Key name="livery.bike03_lv03.avail"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv03"		value = "0" />
+	<Key name="livery.atv01_lv02.avail"		value = "1" />
+	<Key name="character.avail.m_onepiece_rig_lv04"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv05"		value = "1" />
+	<Key name="vehicle.buggy.choice"		value = "buggy20_LV01" />
+	<Key name="character.avail.m_onepiece_rig_lv06"		value = "0" />
+	<Key name="livery.mudplugger03_lv02.avail"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv07"		value = "0" />
+	<Key name="character.avail.m_onepiece_rig_lv08"		value = "0" />
+	<Key name="livery.racetruck20_lv01.avail"		value = "0" />
+	<Key name="character.name.m_semigen3_c_lv01"		value = "m_SemiGen3_c_LV01" />
+	<Key name="livery.buggy01_lv02.avail"		value = "1" />
+	<Key name="livery.monster24_lv03.avail"		value = "0" />
+	<Key name="livery.rallycar24_lv05.avail"		value = "0" />
+	<Key name="vehicle.atv.usage"		value = "1" />
+	<Key name="livery.racetruck03_lv03.avail"		value = "0" />
+	<Key name="character.avail.f_semigen4_d_lv01"		value = "0" />
+	<Key name="livery.mudplugger20_lv02.avail"		value = "0" />
+	<Key name="livery.rallycar07_lv12.avail"		value = "1" />
+	<Key name="livery.rallycar23_lv02.avail"		value = "0" />
+	<Key name="livery.bike02_lv01.avail"		value = "0" />
+	<Key name="livery.bigrig01_lv01.avail"		value = "1" />
+	<Key name="livery.atv25_lv02.avail"		value = "0" />
+	<Key name="livery.racetruck20_lv03.avail"		value = "0" />
+	<Key name="livery.monster24_lv05.avail"		value = "0" />
+	<Key name="livery.rallycar24_lv07.avail"		value = "0" />
+	<Key name="character.avail.f_semigen1_b_lv01"		value = "0" />
+	<Key name="character.name.f_casual_rig_lv01"		value = "f_casual_rig_LV01" />
+	<Key name="character.name.f_casual_rig_lv02"		value = "f_casual_rig_LV02" />
+	<Key name="livery.buggy25_lv02.avail"		value = "1" />
+	<Key name="livery.mudplugger02_lv01.avail"		value = "0" />
+	<Key name="character.name.f_casual_rig_lv03"		value = "f_casual_rig_LV03" />
+	<Key name="livery.rallycar05_lv01.avail"		value = "0" />
+	<Key name="vehicle.racetruck.unlocked"		value = "TRUE" />
+	<Key name="character.avail.m_semigen4_c_lv01"		value = "0" />
+	<Key name="character.name.f_casual_rig_lv04"		value = "f_casual_rig_LV04" />
+	<Key name="character.name.f_casual_rig_lv05"		value = "f_casual_rig_LV05" />
+	<Key name="livery.mudplugger20_lv04.avail"		value = "0" />
+	<Key name="character.name.f_casual_rig_lv06"		value = "f_casual_rig_LV06" />
+	<Key name="livery.monster23_lv02.avail"		value = "0" />
+	<Key name="character.name.f_casual_rig_lv07"		value = "f_casual_rig_LV07" />
+	<Key name="livery.bike02_lv03.avail"		value = "0" />
+	<Key name="vehicle.monster.unlocked"		value = "TRUE" />
+	<Key name="character.name.f_hero3_lv01"		value = "f_hero3_LV01" />
+	<Key name="livery.bigrig01_lv03.avail"		value = "1" />
+	<Key name="livery.racetruck02_lv02.avail"		value = "0" />
+	<Key name="character.name.f_semigen2_a_lv01"		value = "f_SemiGen2_a_LV01" />
+	<Key name="livery.rallycar06_lv11.avail"		value = "0" />
+	<Key name="livery.rallycar22_lv01.avail"		value = "1" />
+	<Key name="livery.bigrig25_lv01.avail"		value = "1" />
+	<Key name="character.avail.m_semigen1_a_lv01"		value = "0" />
+	<Key name="character.name.m_hero3_lv01"		value = "m_hero3_LV01" />
+	<Key name="livery.mudplugger02_lv03.avail"		value = "0" />
+	<Key name="livery.atv24_lv01.avail"		value = "1" />
+	<Key name="livery.rallycar05_lv03.avail"		value = "0" />
+
+</Chunk>
+
+<Chunk name = "global">
+
+	<Key name="numstdraces"		value = "15" />
+	<Key name="lightweightwins"		value = "2" />
+	<Key name="longestjump"		value = "187.71" />
+	<Key name="heavyweightwins"		value = "5" />
+	<Key name="totalracetime"		value = "3524.82" />
+	<Key name="wreckfreeraces"		value = "4" />
+	<Key name="totalracetime300ths"		value = "1057445" />
+	<Key name="numoverheats"		value = "3" />
+	<Key name="successfulattacks"		value = "15" />
+	<Key name="mostusedvehicle"		value = "bike" />
+	<Key name="barrelroll"		value = "35.42" />
+	<Key name="distancetravelled"		value = "118316.80" />
+	<Key name="numraces"		value = "18" />
+	<Key name="totalracetimeinfirst"		value = "1095.28" />
+	<Key name="numwins"		value = "13" />
+	<Key name="mediumweightwins"		value = "6" />
+	<Key name="freeplayraceswon"		value = "1" />
+	<Key name="attackattempts"		value = "31" />
+	<Key name="furthestboostdistance"		value = "339.32" />
+	<Key name="freeplayracescreated"		value = "4" />
+	<Key name="minusedvehicle"		value = "None" />
+	<Key name="numwrecks"		value = "53" />
+	<Key name="tightestvictory"		value = "0.37" />
+	<Key name="surviourcount"		value = "0" />
+
+</Chunk>
+
+<Chunk name = "gui">
+
+	<Key name="osd.opc"		value = "100" />
+
+</Chunk>
+
+<Chunk name = "latest">
+
+	<Key name="speed.rank"		value = "3" />
+	<Key name="medal"		value = "1" />
+	<Key name="skill.rank"		value = "0" />
+	<Key name="aggression.rank"		value = "3" />
+	<Key name="racetime"		value = "03:07.72" />
+	<Key name="position"		value = "1" />
+
+</Chunk>
+
+<Chunk name = "loading">
+
+	<Key name="shockwaves.visited"		value = "TRUE" />
+	<Key name="mode.timeattack.lams"		value = "1751" />
+	<Key name="boosteffects.lams"		value = "21" />
+	<Key name="mode.splitscreen-eliminator.lams"		value = "194" />
+	<Key name="track_davetona.visited"		value = "false" />
+	<Key name="boosteffects.para.lams"		value = "2362" />
+	<Key name="track_blackrock.para.lams"		value = "2395" />
+	<Key name="track_coastlinerun.visited"		value = "false" />
+	<Key name="track_jurassicwaterfall.para.lams"		value = "2389" />
+	<Key name="track_blackrock.lams"		value = "2917" />
+	<Key name="track_sugarplant.visited"		value = "false" />
+	<Key name="eliminator.visited"		value = "TRUE" />
+	<Key name="mode.splitscreen-race.lams"		value = "193" />
+	<Key name="aggression.lams"		value = "1748" />
+	<Key name="track_colossus_canyon.para.lams"		value = "2391" />
+	<Key name="controls.para.lams"		value = "0" />
+	<Key name="track_sugarplant.para.lams"		value = "2387" />
+	<Key name="track_raingod_spire.visited"		value = "TRUE" />
+	<Key name="track_happy_jungle.lams"		value = "2012" />
+	<Key name="speed.visited"		value = "TRUE" />
+	<Key name="track_mudslide.para.lams"		value = "2388" />
+	<Key name="shockwaves.lams"		value = "2205" />
+	<Key name="track_rift.visited"		value = "TRUE" />
+	<Key name="mode.freeplay-race.lams"		value = "197" />
+	<Key name="aggression.visited"		value = "TRUE" />
+	<Key name="mode.festival-race.lams"		value = "190" />
+	<Key name="boosteffects.visited"		value = "TRUE" />
+	<Key name="controls.visited"		value = "TRUE" />
+	<Key name="mode.freeplay-eliminator.lams"		value = "198" />
+	<Key name="boost.visited"		value = "TRUE" />
+	<Key name="track_jurassicwaterfall.lams"		value = "2911" />
+	<Key name="track_calderaridgerace.lams"		value = "2914" />
+	<Key name="routes.lams"		value = "23" />
+	<Key name="surfaces.visited"		value = "TRUE" />
+	<Key name="track_reefrunner.visited"		value = "false" />
+	<Key name="tracks.visited"		value = "TRUE" />
+	<Key name="water.para.lams"		value = "2361" />
+	<Key name="mode.festival-eliminator.lams"		value = "191" />
+	<Key name="track_sugarplant.lams"		value = "2909" />
+	<Key name="track_coastlinerun.lams"		value = "2912" />
+	<Key name="actions.visited"		value = "TRUE" />
+	<Key name="track_edge.visited"		value = "false" />
+	<Key name="track_volcanicwastelands.visited"		value = "false" />
+	<Key name="track_raingod_spire.para.lams"		value = "2399" />
+	<Key name="track_mudslide.lams"		value = "2910" />
+	<Key name="track_reborn.visited"		value = "false" />
+	<Key name="track_blackrock.visited"		value = "TRUE" />
+	<Key name="water.visited"		value = "TRUE" />
+	<Key name="eliminator.para.lams"		value = "2370" />
+	<Key name="track_rift.para.lams"		value = "2396" />
+	<Key name="mode.festival-storm.lams"		value = "3868" />
+	<Key name="track_colossus_canyon.lams"		value = "2913" />
+	<Key name="water.lams"		value = "20" />
+	<Key name="track_coastlinerun.para.lams"		value = "2390" />
+	<Key name="actions.para.lams"		value = "2364" />
+	<Key name="track_edge.para.lams"		value = "2394" />
+	<Key name="track_volcanicwastelands.para.lams"		value = "2393" />
+	<Key name="actions.lams"		value = "2187" />
+	<Key name="track_edge.lams"		value = "2916" />
+	<Key name="track_garage.para.lams"		value = "0" />
+	<Key name="track_volcanicwastelands.lams"		value = "2915" />
+	<Key name="boost.lams"		value = "2759" />
+	<Key name="speed.lams"		value = "2667" />
+	<Key name="routes.visited"		value = "TRUE" />
+	<Key name="track_reborn.para.lams"		value = "2398" />
+	<Key name="track_davetona.para.lams"		value = "2400" />
+	<Key name="track_calderaridgerace.visited"		value = "TRUE" />
+	<Key name="surfaces.para.lams"		value = "2366" />
+	<Key name="track_reefrunner.para.lams"		value = "0" />
+	<Key name="tracks.para.lams"		value = "2368" />
+	<Key name="routes.para.lams"		value = "2367" />
+	<Key name="track_scorched.visited"		value = "false" />
+	<Key name="track_xbeach.visited"		value = "false" />
+	<Key name="shockwaves.para.lams"		value = "2365" />
+	<Key name="track_reborn.lams"		value = "2920" />
+	<Key name="track_jurassicwaterfall.visited"		value = "false" />
+	<Key name="track_scorched.para.lams"		value = "2397" />
+	<Key name="track_xbeach.para.lams"		value = "2401" />
+	<Key name="mode.online-eliminator.lams"		value = "196" />
+	<Key name="controls.lams"		value = "0" />
+	<Key name="track_scorched.lams"		value = "2919" />
+	<Key name="track_xbeach.lams"		value = "2923" />
+	<Key name="track_raingod_spire.lams"		value = "2921" />
+	<Key name="track_garage.lams"		value = "0" />
+	<Key name="boost.para.lams"		value = "2360" />
+	<Key name="eliminator.lams"		value = "1750" />
+	<Key name="track_davetona.lams"		value = "2922" />
+	<Key name="track_calderaridgerace.para.lams"		value = "2392" />
+	<Key name="mode.festival-speed.lams"		value = "192" />
+	<Key name="track_happy_jungle.para.lams"		value = "2386" />
+	<Key name="aggression.para.lams"		value = "2363" />
+	<Key name="track_colossus_canyon.visited"		value = "false" />
+	<Key name="track_mudslide.visited"		value = "TRUE" />
+	<Key name="track_rift.lams"		value = "2918" />
+	<Key name="mode.online-race.lams"		value = "195" />
+	<Key name="track_happy_jungle.visited"		value = "TRUE" />
+	<Key name="speed.para.lams"		value = "2371" />
+	<Key name="surfaces.lams"		value = "22" />
+	<Key name="track_reefrunner.lams"		value = "0" />
+	<Key name="tracks.lams"		value = "24" />
+
+</Chunk>
+
+<Chunk name = "online">
+
+	<Key name="ranked.golds"		value = "0" />
+	<Key name="locationid"		value = "-1" />
+	<Key name="ranked.bronzes"		value = "0" />
+	<Key name="ranked.victories"		value = "0" />
+	<Key name="dropout"		value = "0" />
+	<Key name="ranked.gamesplayed"		value = "0" />
+	<Key name="ranked.longwinningstreak"		value = "0" />
+	<Key name="ranked.xp"		value = "1" />
+	<Key name="customgamesplayed"		value = "0" />
+	<Key name="ranked.silvers"		value = "0" />
+	<Key name="ranked.playersbeaten"		value = "0" />
+	<Key name="ranked.ranking"		value = "1" />
+	<Key name="globalgame"		value = "0" />
+	<Key name="casualgamesplayed"		value = "0" />
+
+</Chunk>
+
+<Chunk name = "options">
+
+	<Key name="controllerpref.race"		value = "0" />
+	<Key name="controllerpref.musiccontrol"		value = "FALSE" />
+	<Key name="controllerpref.rumble"		value = "2" />
+	<Key name="controllerpref.invertphoto"		value = "TRUE" />
+	<Key name="controllerpref.invertrace"		value = "FALSE" />
+	<Key name="camerapref.race"		value = "0" />
+	<Key name="tagpreference"		value = "2" />
+	<Key name="controllerpref.sixaxissensitivity"		value = "1" />
+
+</Chunk>
+
+<Chunk name = "rewards">
+
+	<Key name="reward class 55b (vehicle pack 5)"		value = "TRUE" />
+	<Key name="reward 49b (vehicle pack 22)"		value = "TRUE" />
+	<Key name="reward 40c (character pack 10)"		value = "TRUE" />
+	<Key name="reward class 51b (character pack 1)"		value = "FALSE" />
+	<Key name="reward 20a (character pack 11)"		value = "TRUE" />
+	<Key name="reward 48 (vehicle pack 11)"		value = "TRUE" />
+	<Key name="reward class 57a (character pack 9)"		value = "TRUE" />
+	<Key name="reward 36b (vehicle pack 23)"		value = "TRUE" />
+	<Key name="reward class 54b (vehicle pack 4)"		value = "TRUE" />
+	<Key name="reward class 52c (vehicle pack 2)"		value = "FALSE" />
+	<Key name="reward 22a (vehicle pack 26)"		value = "TRUE" />
+	<Key name="reward class 53a (character pack 3)"		value = "TRUE" />
+	<Key name="reward class 52b (character pack 2)"		value = "FALSE" />
+	<Key name="reward class 53b (vehicle pack 3)"		value = "TRUE" />
+	<Key name="reward class 51c (vehicle pack 1)"		value = "FALSE" />
+	<Key name="reward 10"		value = "TRUE" />
+	<Key name="reward 11"		value = "TRUE" />
+	<Key name="reward 12"		value = "TRUE" />
+	<Key name="reward 37b (vehicle pack 21)"		value = "TRUE" />
+	<Key name="reward 13"		value = "TRUE" />
+	<Key name="reward 14"		value = "TRUE" />
+	<Key name="reward 15"		value = "TRUE" />
+	<Key name="reward 16"		value = "TRUE" />
+	<Key name="reward 21"		value = "TRUE" />
+	<Key name="reward 17"		value = "TRUE" />
+	<Key name="reward 18"		value = "TRUE" />
+	<Key name="reward 23"		value = "FALSE" />
+	<Key name="reward 19"		value = "TRUE" />
+	<Key name="reward 24"		value = "TRUE" />
+	<Key name="reward 25"		value = "TRUE" />
+	<Key name="reward 30"		value = "TRUE" />
+	<Key name="reward 26"		value = "TRUE" />
+	<Key name="reward 31"		value = "TRUE" />
+	<Key name="reward 27"		value = "TRUE" />
+	<Key name="reward 28"		value = "TRUE" />
+	<Key name="reward 33"		value = "TRUE" />
+	<Key name="reward 49a (character pack 16)"		value = "TRUE" />
+	<Key name="reward 29"		value = "TRUE" />
+	<Key name="reward 0"		value = "FALSE" />
+	<Key name="reward 1"		value = "TRUE" />
+	<Key name="reward 41"		value = "TRUE" />
+	<Key name="reward 20b (vehicle pack 12)"		value = "TRUE" />
+	<Key name="reward 3"		value = "TRUE" />
+	<Key name="reward 4"		value = "TRUE" />
+	<Key name="reward 5"		value = "FALSE" />
+	<Key name="reward 46"		value = "TRUE" />
+	<Key name="reward 7"		value = "TRUE" />
+	<Key name="reward 8"		value = "TRUE" />
+	<Key name="reward class 51a (bike and mudplugger)"		value = "FALSE" />
+	<Key name="reward 22b (character pack 6)"		value = "TRUE" />
+	<Key name="reward class 54a (character pack 4)"		value = "TRUE" />
+	<Key name="reward 35 (vehicle pack 19)"		value = "TRUE" />
+	<Key name="reward 47 (character pack 15)"		value = "TRUE" />
+	<Key name="reward 50 (vehicle pack 10)"		value = "TRUE" />
+	<Key name="reward 32 (character pack 12)"		value = "TRUE" />
+	<Key name="reward 38b (vehicle pack 17)"		value = "TRUE" />
+	<Key name="reward 6 (vehicle pack 25)"		value = "TRUE" />
+	<Key name="reward class 52a (rallycar and monster truck)"		value = "FALSE" />
+	<Key name="reward 2 (character pack 18)"		value = "TRUE" />
+	<Key name="reward 37a (character pack 14)"		value = "TRUE" />
+	<Key name="reward 38a (character pack 17)"		value = "TRUE" />
+	<Key name="reward 36a (character pack 13)"		value = "TRUE" />
+	<Key name="reward 45 (vehicle pack 16)"		value = "TRUE" />
+	<Key name="reward class 55a (character pack 7)"		value = "TRUE" />
+	<Key name="reward class 57b (vehicle pack 7)"		value = "TRUE" />
+	<Key name="reward 34b (character pack 5)"		value = "TRUE" />
+	<Key name="reward 44 (vehicle pack 13)"		value = "TRUE" />
+	<Key name="reward 34a (vehicle pack 18)"		value = "TRUE" />
+	<Key name="reward 9 (vehicle pack 8)"		value = "TRUE" />
+	<Key name="reward 40b (vehicle pack 20)"		value = "TRUE" />
+	<Key name="reward class 56b (vehicle pack 6)"		value = "TRUE" />
+	<Key name="reward class 56a (character pack 8)"		value = "TRUE" />
+	<Key name="reward 43 (vehicle pack 14)"		value = "TRUE" />
+	<Key name="reward 39 (vehicle pack 9)"		value = "TRUE" />
+	<Key name="reward 40a (vehicle pack 24)"		value = "TRUE" />
+	<Key name="reward 42 (vehicle pack 15)"		value = "TRUE" />
+
+</Chunk>
+
+<Chunk name = "ticket">
+
+	<Key name="in-spired.speedrank"		value = "3" />
+	<Key name="stick_in_the_mud.unlocked"		value = "TRUE" />
+	<Key name="fallen_angels.new"		value = "TRUE" />
+	<Key name="dust_to_dust.bestmedal"		value = "1" />
+	<Key name="calderaridge_easy.aggressionrank"		value = "1" />
+	<Key name="dust_to_dust.aggressionpoints"		value = "2012.67" />
+	<Key name="calderaridge_easy.aggressionpoints"		value = "300.00" />
+	<Key name="touch_down.skillrank"		value = "3" />
+	<Key name="crack_down.new"		value = "TRUE" />
+	<Key name="nosebleed.new"		value = "TRUE" />
+	<Key name="cut_off_point.bestmedal"		value = "1" />
+	<Key name="in-spired.aggressionpoints"		value = "356.96" />
+	<Key name="nosebleed.skillrank"		value = "0" />
+	<Key name="hot_under_the_collar.unlocked"		value = "TRUE" />
+	<Key name="light_fantastic.skillrank"		value = "2" />
+	<Key name="cracked_up.speedrank"		value = "3" />
+	<Key name="heavy_water.unlocked"		value = "TRUE" />
+	<Key name="in-spired.skillrank"		value = "3" />
+	<Key name="dust_to_dust.new"		value = "TRUE" />
+	<Key name="touch_down.bestmedal"		value = "2" />
+	<Key name="crack_down.unlocked"		value = "TRUE" />
+	<Key name="sands_of_time.new"		value = "TRUE" />
+	<Key name="calderaridge_easy.speedpoints"		value = "241.14" />
+	<Key name="rapid_fire.aggressionpoints"		value = "782.22" />
+	<Key name="mud_in_your_eye.bestmedal"		value = "1" />
+	<Key name="calderaridge_hard.aggressionrank"		value = "0" />
+	<Key name="calderaridge_hard.skillrank"		value = "0" />
+	<Key name="cracked_up.new"		value = "TRUE" />
+	<Key name="nosebleed.unlocked"		value = "TRUE" />
+	<Key name="sinking_feeling.speedpoints"		value = "0.00" />
+	<Key name="nosebleed.aggressionrank"		value = "3" />
+	<Key name="pedal_to_the_floor.new"		value = "TRUE" />
+	<Key name="in-spired.unlocked"		value = "TRUE" />
+	<Key name="in-spired.speedpoints"		value = "142.48" />
+	<Key name="air_born.skillrank"		value = "0" />
+	<Key name="heavy_petting.unlocked"		value = "TRUE" />
+	<Key name="oblivion.new"		value = "TRUE" />
+	<Key name="ridge_run.speedrank"		value = "3" />
+	<Key name="air_born.unlocked"		value = "TRUE" />
+	<Key name="cut_off_point.aggressionpoints"		value = "3871.53" />
+	<Key name="nosebleed.bestmedal"		value = "1" />
+	<Key name="nosebleed.speedpoints"		value = "152.02" />
+	<Key name="light_fantastic.bestmedal"		value = "1" />
+	<Key name="heavy_wait.unlocked"		value = "TRUE" />
+	<Key name="mud_in_your_eye.new"		value = "TRUE" />
+	<Key name="in-spired.skillpoints"		value = "343.77" />
+	<Key name="cracked_up.aggressionpoints"		value = "2781.40" />
+	<Key name="in-spired.bestmedal"		value = "1" />
+	<Key name="in-spired.aggressionrank"		value = "1" />
+	<Key name="in-spired.new"		value = "TRUE" />
+	<Key name="cracked_up.aggressionrank"		value = "3" />
+	<Key name="needle_in_a_haystack.unlocked"		value = "TRUE" />
+	<Key name="rapid_fire.skillrank"		value = "0" />
+	<Key name="trail_of_destruction.aggressionpoints"		value = "4215.52" />
+	<Key name="driftwood.new"		value = "TRUE" />
+	<Key name="nosebleed.aggressionpoints"		value = "2280.35" />
+	<Key name="mud_in_your_eye.aggressionpoints"		value = "320.00" />
+	<Key name="fallen_angels.unlocked"		value = "TRUE" />
+	<Key name="dust_to_dust.unlocked"		value = "TRUE" />
+	<Key name="cracked_up.skillrank"		value = "0" />
+	<Key name="cut_off_point.unlocked"		value = "TRUE" />
+	<Key name="air_born.bestmedal"		value = "1" />
+	<Key name="fallen_angels.aggressionrank"		value = "0" />
+	<Key name="sinking_feeling.speedrank"		value = "3" />
+	<Key name="heavy_wait.new"		value = "TRUE" />
+	<Key name="heavy_water.speedrank"		value = "3" />
+	<Key name="needle_in_a_haystack.new"		value = "TRUE" />
+	<Key name="heavy_water.aggressionrank"		value = "3" />
+	<Key name="air_born.aggressionrank"		value = "0" />
+	<Key name="rapid_fire.bestmedal"		value = "1" />
+	<Key name="sinking_feeling.aggressionpoints"		value = "3926.96" />
+	<Key name="ridge_run.skillrank"		value = "3" />
+	<Key name="air_born.aggressionpoints"		value = "206.55" />
+	<Key name="dust_to_dust.aggressionrank"		value = "3" />
+	<Key name="calderaridge_easy.speedrank"		value = "3" />
+	<Key name="pedal_to_the_floor.unlocked"		value = "TRUE" />
+	<Key name="driftwood.unlocked"		value = "TRUE" />
+	<Key name="heavy_water.speedpoints"		value = "187.72" />
+	<Key name="ridge_run.aggressionrank"		value = "0" />
+	<Key name="cracked_up.bestmedal"		value = "2" />
+	<Key name="fallen_angels.speedrank"		value = "0" />
+	<Key name="oblivion.unlocked"		value = "TRUE" />
+	<Key name="rapid_fire.new"		value = "TRUE" />
+	<Key name="sweet_spot.new"		value = "TRUE" />
+	<Key name="light_fantastic.speedpoints"		value = "184.03" />
+	<Key name="dust_to_dust.speedrank"		value = "3" />
+	<Key name="trail_of_destruction.speedrank"		value = "3" />
+	<Key name="heavy_water.new"		value = "TRUE" />
+	<Key name="trail_of_destruction.new"		value = "TRUE" />
+	<Key name="mud_in_your_eye.speedpoints"		value = "150.38" />
+	<Key name="touch_down.unlocked"		value = "TRUE" />
+	<Key name="light_fantastic.skillpoints"		value = "431.70" />
+	<Key name="sands_of_time.unlocked"		value = "TRUE" />
+	<Key name="mud_in_your_eye.unlocked"		value = "TRUE" />
+	<Key name="touch_down.speedpoints"		value = "14.69" />
+	<Key name="light_fantastic.unlocked"		value = "TRUE" />
+	<Key name="ridge_run.bestmedal"		value = "1" />
+	<Key name="touch_down.aggressionrank"		value = "0" />
+	<Key name="mud_in_your_eye.skillpoints"		value = "82.65" />
+	<Key name="sinking_feeling.skillrank"		value = "0" />
+	<Key name="air_born.speedpoints"		value = "141.06" />
+	<Key name="cracked_up.unlocked"		value = "TRUE" />
+	<Key name="heavy_water.skillrank"		value = "0" />
+	<Key name="touch_down.skillpoints"		value = "147.67" />
+	<Key name="cut_off_point.speedrank"		value = "3" />
+	<Key name="go_fish.unlocked"		value = "TRUE" />
+	<Key name="ridge_run.unlocked"		value = "TRUE" />
+	<Key name="cut_off_point.aggressionrank"		value = "3" />
+	<Key name="mud_in_your_eye.aggressionrank"		value = "1" />
+	<Key name="rapid_fire.speedpoints"		value = "197.82" />
+	<Key name="sinking_feeling.unlocked"		value = "TRUE" />
+	<Key name="light_fantastic.new"		value = "TRUE" />
+	<Key name="calderaridge_easy.skillrank"		value = "0" />
+	<Key name="heavy_petting.new"		value = "TRUE" />
+	<Key name="touch_down.speedrank"		value = "3" />
+	<Key name="cut_off_point.speedpoints"		value = "260.97" />
+	<Key name="fallen_angels.skillrank"		value = "0" />
+	<Key name="hot_under_the_collar.new"		value = "TRUE" />
+	<Key name="mud_in_your_eye.speedrank"		value = "3" />
+	<Key name="dust_to_dust.skillrank"		value = "0" />
+	<Key name="sinking_feeling.bestmedal"		value = "1" />
+	<Key name="trail_of_destruction.skillrank"		value = "0" />
+	<Key name="cut_off_point.skillpoints"		value = "842.99" />
+	<Key name="rapid_fire.aggressionrank"		value = "3" />
+	<Key name="heavy_water.bestmedal"		value = "1" />
+	<Key name="cut_off_point.new"		value = "TRUE" />
+	<Key name="ridge_run.speedpoints"		value = "24.50" />
+	<Key name="sinking_feeling.aggressionrank"		value = "3" />
+	<Key name="dust_to_dust.speedpoints"		value = "282.07" />
+	<Key name="sling_shot.unlocked"		value = "TRUE" />
+	<Key name="light_fantastic.aggressionrank"		value = "3" />
+	<Key name="sling_shot.new"		value = "TRUE" />
+	<Key name="air_born.new"		value = "TRUE" />
+	<Key name="nosebleed.speedrank"		value = "3" />
+	<Key name="light_fantastic.aggressionpoints"		value = "1080.00" />
+	<Key name="light_fantastic.speedrank"		value = "3" />
+	<Key name="beached_whale.new"		value = "TRUE" />
+	<Key name="ridge_run.skillpoints"		value = "396.05" />
+	<Key name="go_fish.new"		value = "TRUE" />
+	<Key name="ridge_run.new"		value = "TRUE" />
+	<Key name="cracked_up.speedpoints"		value = "218.11" />
+	<Key name="trail_of_destruction.aggressionrank"		value = "3" />
+	<Key name="sinking_feeling.new"		value = "TRUE" />
+	<Key name="cut_off_point.skillrank"		value = "0" />
+	<Key name="calderaridge_hard.speedrank"		value = "0" />
+	<Key name="trail_of_destruction.bestmedal"		value = "1" />
+	<Key name="trail_of_destruction.unlocked"		value = "TRUE" />
+	<Key name="air_born.speedrank"		value = "3" />
+	<Key name="heavy_water.aggressionpoints"		value = "3180.89" />
+	<Key name="stick_in_the_mud.new"		value = "TRUE" />
+	<Key name="trail_of_destruction.speedpoints"		value = "189.99" />
+	<Key name="mud_in_your_eye.skillrank"		value = "3" />
+	<Key name="touch_down.new"		value = "TRUE" />
+	<Key name="rapid_fire.unlocked"		value = "TRUE" />
+	<Key name="sweet_spot.unlocked"		value = "TRUE" />
+	<Key name="beached_whale.unlocked"		value = "TRUE" />
+	<Key name="rapid_fire.speedrank"		value = "3" />
+
+</Chunk>
+
+<Chunk name = "track">
+
+	<Key name="track_blackrock.wins"		value = "1" />
+	<Key name="track_raingod_spire.wins"		value = "1" />
+	<Key name="track_happy_jungle.wins"		value = "2" />
+	<Key name="track_volcanicwastelands.wins"		value = "1" />
+	<Key name="track_mudslide.wins"		value = "2" />
+	<Key name="track_calderaridgerace.wins"		value = "4" />
+	<Key name="track_reborn.wins"		value = "1" />
+	<Key name="track_davetona.wins"		value = "1" />
+
+</Chunk>
+
+<Chunk name = "trophies">
+
+	<Key name="just getting started"		value = "FALSE" />
+	<Key name="hero"		value = "FALSE" />
+	<Key name="monster truck"		value = "FALSE" />
+	<Key name="immortal"		value = "FALSE" />
+	<Key name="pugilist"		value = "FALSE" />
+	<Key name="competitor"		value = "FALSE" />
+	<Key name="tortoise"		value = "FALSE" />
+	<Key name="lightweight"		value = "FALSE" />
+	<Key name="mud plugger"		value = "FALSE" />
+	<Key name="speed demon"		value = "FALSE" />
+	<Key name="hire me"		value = "FALSE" />
+	<Key name="can't touch this"		value = "FALSE" />
+	<Key name="ghost rider"		value = "FALSE" />
+	<Key name="friendship"		value = "FALSE" />
+	<Key name="beginner's luck"		value = "FALSE" />
+	<Key name="traveller"		value = "FALSE" />
+	<Key name="beginner"		value = "FALSE" />
+	<Key name="bike"		value = "FALSE" />
+	<Key name="last man standing"		value = "FALSE" />
+	<Key name="big rig"		value = "FALSE" />
+	<Key name="survivor"		value = "FALSE" />
+	<Key name="over achiever"		value = "FALSE" />
+	<Key name="race fan"		value = "FALSE" />
+	<Key name="time sink"		value = "FALSE" />
+	<Key name="bully"		value = "FALSE" />
+	<Key name="atv"		value = "FALSE" />
+	<Key name="legend"		value = "FALSE" />
+	<Key name="rookie"		value = "FALSE" />
+	<Key name="racing truck"		value = "FALSE" />
+	<Key name="veteran"		value = "FALSE" />
+	<Key name="rally car"		value = "FALSE" />
+	<Key name="the money shot"		value = "FALSE" />
+	<Key name="stuntman"		value = "FALSE" />
+	<Key name="runner up"		value = "FALSE" />
+	<Key name="winner"		value = "FALSE" />
+	<Key name="hazardous"		value = "FALSE" />
+	<Key name="mediumweight"		value = "FALSE" />
+	<Key name="track master"		value = "FALSE" />
+	<Key name="ranked streak"		value = "FALSE" />
+	<Key name="champion"		value = "FALSE" />
+	<Key name="tumbler"		value = "FALSE" />
+	<Key name="spoilt for choice"		value = "TRUE" />
+	<Key name="wreck-less"		value = "FALSE" />
+	<Key name="buggy"		value = "FALSE" />
+	<Key name="speeder"		value = "FALSE" />
+	<Key name="necessary roughness"		value = "FALSE" />
+	<Key name="close call"		value = "FALSE" />
+	<Key name="freestyle"		value = "FALSE" />
+	<Key name="casual"		value = "FALSE" />
+	<Key name="heavyweight"		value = "FALSE" />
+
+</Chunk>
+
+<Chunk name = "tutorial">
+
+	<Key name="wrecklimit"		value = "TRUE" />
+	<Key name="buggy"		value = "TRUE" />
+	<Key name="atv"		value = "TRUE" />
+	<Key name="motorstorm1"		value = "false" />
+	<Key name="motorstorm2"		value = "false" />
+	<Key name="motorstorm3"		value = "false" />
+	<Key name="motorstorm4"		value = "false" />
+	<Key name="motorstorm5"		value = "false" />
+	<Key name="motorstorm6"		value = "false" />
+	<Key name="motorstorm7"		value = "false" />
+	<Key name="motorstorm8"		value = "false" />
+	<Key name="novehicle"		value = "false" />
+	<Key name="festivalguide"		value = "TRUE" />
+	<Key name="mudplugger"		value = "TRUE" />
+	<Key name="bike"		value = "TRUE" />
+	<Key name="targettime"		value = "TRUE" />
+	<Key name="rallycar"		value = "false" />
+	<Key name="playerlist"		value = "false" />
+	<Key name="lowrank"		value = "TRUE" />
+	<Key name="bigrig"		value = "TRUE" />
+	<Key name="racingtruck"		value = "TRUE" />
+	<Key name="rank1"		value = "true" />
+	<Key name="newvehicle"		value = "false" />
+	<Key name="rank2"		value = "TRUE" />
+	<Key name="rank3"		value = "TRUE" />
+	<Key name="rank4"		value = "false" />
+	<Key name="rank5"		value = "false" />
+	<Key name="rank6"		value = "false" />
+	<Key name="rank7"		value = "false" />
+	<Key name="rank8"		value = "false" />
+	<Key name="monstertruck"		value = "false" />
+
+</Chunk>
+
+<Chunk name = "vehiclelams">
+
+	<Key name="livery.atv02"		value = "3332" />
+	<Key name="livery.atv03"		value = "3333" />
+	<Key name="livery.atv04"		value = "3334" />
+	<Key name="livery.atv05"		value = "3335" />
+	<Key name="livery.atv06"		value = "3336" />
+	<Key name="livery.atv07"		value = "3337" />
+	<Key name="livery.atv20"		value = "3350" />
+	<Key name="livery.atv21"		value = "3351" />
+	<Key name="livery.atv22"		value = "3352" />
+	<Key name="livery.atv23"		value = "3353" />
+	<Key name="livery.atv24"		value = "3354" />
+	<Key name="livery.atv25"		value = "3355" />
+	<Key name="livery.bike01"		value = "3301" />
+	<Key name="livery.bike02"		value = "3302" />
+	<Key name="livery.bike03"		value = "3303" />
+	<Key name="livery.bike04"		value = "3304" />
+	<Key name="livery.bike05"		value = "3305" />
+	<Key name="livery.bike06"		value = "3306" />
+	<Key name="livery.bike07"		value = "3307" />
+	<Key name="livery.bike08"		value = "3308" />
+	<Key name="livery.bike21"		value = "3321" />
+	<Key name="livery.bike22"		value = "3322" />
+	<Key name="livery.bike23"		value = "3323" />
+	<Key name="livery.bike24"		value = "3324" />
+	<Key name="livery.buggy01"		value = "3361" />
+	<Key name="livery.buggy02"		value = "3362" />
+	<Key name="livery.buggy03"		value = "3363" />
+	<Key name="livery.buggy04"		value = "3364" />
+	<Key name="livery.buggy05"		value = "3365" />
+	<Key name="livery.buggy06"		value = "3366" />
+	<Key name="livery.buggy07"		value = "3367" />
+	<Key name="livery.buggy20"		value = "3380" />
+	<Key name="livery.buggy21"		value = "3381" />
+	<Key name="livery.buggy22"		value = "3382" />
+	<Key name="livery.buggy23"		value = "3383" />
+	<Key name="livery.buggy24"		value = "3384" />
+	<Key name="livery.buggy25"		value = "3385" />
+	<Key name="livery.rallycar01"		value = "3391" />
+	<Key name="livery.rallycar02"		value = "3392" />
+	<Key name="livery.rallycar03"		value = "3393" />
+	<Key name="livery.rallycar04"		value = "3394" />
+	<Key name="livery.rallycar05"		value = "3395" />
+	<Key name="livery.rallycar06"		value = "3396" />
+	<Key name="livery.rallycar07"		value = "3397" />
+	<Key name="livery.rallycar20"		value = "3410" />
+	<Key name="livery.rallycar21"		value = "3411" />
+	<Key name="livery.rallycar22"		value = "3412" />
+	<Key name="livery.rallycar23"		value = "3413" />
+	<Key name="livery.rallycar24"		value = "3414" />
+	<Key name="livery.rallycar25"		value = "3415" />
+	<Key name="livery.monster20"		value = "3530" />
+	<Key name="livery.monster21"		value = "3531" />
+	<Key name="livery.monster22"		value = "3532" />
+	<Key name="livery.monster23"		value = "3533" />
+	<Key name="livery.monster24"		value = "3534" />
+	<Key name="livery.monster25"		value = "3535" />
+	<Key name="livery.monster26"		value = "3536" />
+	<Key name="livery.monster27"		value = "3537" />
+	<Key name="livery.mudplugger01"		value = "3451" />
+	<Key name="livery.mudplugger02"		value = "3452" />
+	<Key name="livery.mudplugger03"		value = "3453" />
+	<Key name="livery.mudplugger04"		value = "3454" />
+	<Key name="livery.bigrig01"		value = "3481" />
+	<Key name="livery.mudplugger05"		value = "3455" />
+	<Key name="livery.bigrig02"		value = "3482" />
+	<Key name="livery.mudplugger06"		value = "3456" />
+	<Key name="livery.bigrig03"		value = "3483" />
+	<Key name="livery.mudplugger07"		value = "3457" />
+	<Key name="livery.bigrig04"		value = "3484" />
+	<Key name="livery.bigrig05"		value = "3485" />
+	<Key name="livery.bigrig06"		value = "3486" />
+	<Key name="livery.mudplugger20"		value = "3470" />
+	<Key name="livery.bigrig07"		value = "3487" />
+	<Key name="livery.mudplugger21"		value = "3471" />
+	<Key name="livery.bigrig08"		value = "3488" />
+	<Key name="livery.mudplugger22"		value = "3472" />
+	<Key name="livery.mudplugger23"		value = "3473" />
+	<Key name="livery.bigrig20"		value = "3500" />
+	<Key name="livery.mudplugger24"		value = "3474" />
+	<Key name="livery.bigrig21"		value = "3501" />
+	<Key name="livery.mudplugger25"		value = "3475" />
+	<Key name="livery.bigrig22"		value = "3502" />
+	<Key name="livery.bigrig23"		value = "3503" />
+	<Key name="livery.bigrig24"		value = "3504" />
+	<Key name="livery.bigrig25"		value = "3505" />
+	<Key name="livery.racetruck01"		value = "3421" />
+	<Key name="livery.racetruck02"		value = "3422" />
+	<Key name="livery.racetruck03"		value = "3423" />
+	<Key name="livery.racetruck04"		value = "3424" />
+	<Key name="livery.racetruck05"		value = "3425" />
+	<Key name="livery.racetruck06"		value = "3893" />
+	<Key name="livery.racetruck07"		value = "3427" />
+	<Key name="livery.racetruck20"		value = "3440" />
+	<Key name="livery.racetruck21"		value = "3441" />
+	<Key name="livery.racetruck22"		value = "3442" />
+	<Key name="livery.racetruck23"		value = "3443" />
+	<Key name="livery.racetruck24"		value = "3444" />
+	<Key name="livery.racetruck25"		value = "3445" />
+	<Key name="livery.atv01"		value = "3331" />
+
+</Chunk>
+
