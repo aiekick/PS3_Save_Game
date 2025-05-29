@@ -2,7 +2,7 @@
 <ProfileVersion version = "Beta 2"/>
 <Chunk name = "audio">
 
-	<Key name="music.trackindex"		value = "22" />
+	<Key name="music.trackindex"		value = "26" />
 	<Key name="voice.outputtype"		value = "0" />
 	<Key name="vol.sfx"		value = "30" />
 	<Key name="vol.voice"		value = "40" />
@@ -13,31 +13,31 @@
 <Chunk name = "festival">
 
 	<Key name="eliminator.unlocked"		value = "8" />
-	<Key name="medals.silverplusgold"		value = "52" />
+	<Key name="medals.silverplusgold"		value = "54" />
 	<Key name="rank.speed"		value = "2" />
 	<Key name="medals.gold.speed"		value = "3" />
 	<Key name="rank.skill"		value = "0" />
-	<Key name="medals.gold.races"		value = "33" />
-	<Key name="skillpoints"		value = "47" />
+	<Key name="medals.gold.races"		value = "34" />
+	<Key name="skillpoints"		value = "50" />
 	<Key name="wins.speed"		value = "3" />
-	<Key name="medals.silver"		value = "10" />
+	<Key name="medals.silver"		value = "11" />
 	<Key name="medals.gold.eliminator"		value = "6" />
-	<Key name="medals.gold"		value = "42" />
+	<Key name="medals.gold"		value = "43" />
 	<Key name="rank"		value = "6" />
-	<Key name="player.points"		value = "5100" />
+	<Key name="player.points"		value = "5275" />
 	<Key name="rank.aggression"		value = "2" />
 	<Key name="medals.bronze"		value = "3" />
 	<Key name="speed.unlocked"		value = "8" />
 	<Key name="wins.eliminator"		value = "6" />
-	<Key name="aggressionpoints"		value = "118" />
-	<Key name="speedpoints"		value = "150" />
+	<Key name="aggressionpoints"		value = "122" />
+	<Key name="speedpoints"		value = "156" />
 	<Key name="trophy.overachiever.progress"		value = "12" />
 
 </Chunk>
 
 <Chunk name = "gagdata">
 
-	<Key name="gagvariables.animatedobject"		value = "0" />
+	<Key name="gagvariables.animatedobject"		value = "1" />
 	<Key name="gagvariables."		value = "0" />
 
 </Chunk>
@@ -208,19 +208,14 @@
 	<Key name="livery.monster20_lv02.avail"		value = "1" />
 	<Key name="livery.rallycar20_lv04.avail"		value = "1" />
 	<Key name="livery.racetruck24_lv03.avail"		value = "1" />
-	<Key name="character.name.f_hero5_lv01"		value = "f_hero5_LV01" />
-	<Key name="character.name.m_exo_rig_lv04"		value = "m_exo_rig_LV04" />
-	<Key name="character.name.m_exo_rig_lv05"		value = "m_exo_rig_LV05" />
 	<Key name="livery.atv04_lv01.avail"		value = "1" />
 	<Key name="livery.bike07_lv11.avail"		value = "1" />
-	<Key name="character.name.m_exo_rig_lv06"		value = "m_exo_rig_LV06" />
 	<Key name="livery.bike23_lv01.avail"		value = "1" />
-	<Key name="livery.buggy22_lv03.avail"		value = "1" />
 	<Key name="character.avail.m_semigen2_b_lv01"		value = "1" />
 	<Key name="character.name.m_exo_rig_lv07"		value = "m_exo_rig_LV07" />
 	<Key name="livery.rallycar02_lv02.avail"		value = "1" />
 	<Key name="livery.bigrig05_lv02.avail"		value = "1" />
-	<Key name="vehicle.bike.wins"		value = "11" />
+	<Key name="vehicle.bike.wins"		value = "12" />
 	<Key name="character.avail.f_street_rig_lv01"		value = "1" />
 	<Key name="character.name.f_semigen2_c_lv01"		value = "f_SemiGen2_c_LV01" />
 	<Key name="livery.bigrig06_lv11.avail"		value = "1" />
@@ -323,7 +318,7 @@
 	<Key name="livery.monster26_lv02.avail"		value = "1" />
 	<Key name="character.name.f_hero1_lv01"		value = "f_hero1_LV01" />
 	<Key name="livery.bike05_lv03.avail"		value = "1" />
-	<Key name="vehicle.bike.usage"		value = "29" />
+	<Key name="vehicle.bike.usage"		value = "31" />
 	<Key name="livery.atv03_lv02.avail"		value = "1" />
 	<Key name="livery.bike06_lv12.avail"		value = "1" />
 	<Key name="livery.bike22_lv02.avail"		value = "1" />
@@ -628,7 +623,7 @@
 	<Key name="livery.rallycar20_lv01.avail"		value = "1" />
 	<Key name="livery.bigrig23_lv01.avail"		value = "1" />
 	<Key name="livery.buggy05_lv01.avail"		value = "1" />
-	<Key name="vehicle.monster.usage"		value = "16" />
+	<Key name="vehicle.monster.usage"		value = "18" />
 	<Key name="vehicle.racetruck.wins"		value = "7" />
 	<Key name="character.avail.f_hero1_lv01"		value = "1" />
 	<Key name="livery.atv06_lv11.avail"		value = "1" />
@@ -673,38 +668,43 @@
 	<Key name="character.name.m_sparco_rig_lv07"		value = "m_sparco_rig_LV07" />
 	<Key name="livery.monster27_lv01.avail"		value = "1" />
 	<Key name="vehicle.buggy.unlocked"		value = "TRUE" />
+	<Key name="character.name.f_hero5_lv01"		value = "f_hero5_LV01" />
+	<Key name="character.name.m_exo_rig_lv04"		value = "m_exo_rig_LV04" />
+	<Key name="character.name.m_exo_rig_lv05"		value = "m_exo_rig_LV05" />
+	<Key name="character.name.m_exo_rig_lv06"		value = "m_exo_rig_LV06" />
+	<Key name="livery.buggy22_lv03.avail"		value = "1" />
 
 </Chunk>
 
 <Chunk name = "global">
 
-	<Key name="numstdraces"		value = "77" />
-	<Key name="lightweightwins"		value = "12" />
+	<Key name="numstdraces"		value = "81" />
+	<Key name="lightweightwins"		value = "13" />
 	<Key name="longestjump"		value = "187.71" />
-	<Key name="totalracetime"		value = "22193.63" />
+	<Key name="totalracetime"		value = "23109.75" />
 	<Key name="numoverheats"		value = "16" />
 	<Key name="barrelroll"		value = "35.42" />
-	<Key name="distancetravelled"		value = "752298.56" />
-	<Key name="totalracetimeinfirst"		value = "4141.52" />
-	<Key name="numwins"		value = "43" />
+	<Key name="distancetravelled"		value = "782735.81" />
+	<Key name="totalracetimeinfirst"		value = "4144.28" />
+	<Key name="numwins"		value = "44" />
 	<Key name="mediumweightwins"		value = "18" />
 	<Key name="freeplayraceswon"		value = "1" />
-	<Key name="attackattempts"		value = "99" />
+	<Key name="attackattempts"		value = "100" />
 	<Key name="knockoffattacks"		value = "2" />
 	<Key name="furthestboostdistance"		value = "463.41" />
 	<Key name="freeplayracescreated"		value = "10" />
 	<Key name="maxpunchesduringvictory"		value = "1.00" />
 	<Key name="minusedvehicle"		value = "atv" />
-	<Key name="numwrecks"		value = "272" />
+	<Key name="numwrecks"		value = "284" />
 	<Key name="tightestvictory"		value = "0.07" />
 	<Key name="surviourcount"		value = "3" />
 	<Key name="heavyweightwins"		value = "13" />
-	<Key name="wreckfreeraces"		value = "23" />
-	<Key name="totalracetime300ths"		value = "6658089" />
+	<Key name="wreckfreeraces"		value = "26" />
+	<Key name="totalracetime300ths"		value = "6932925" />
 	<Key name="successfulattacks"		value = "59" />
 	<Key name="mostusedvehicle"		value = "bike" />
 	<Key name="boostexplosionwins"		value = "3" />
-	<Key name="numraces"		value = "96" />
+	<Key name="numraces"		value = "100" />
 
 </Chunk>
 
@@ -716,12 +716,12 @@
 
 <Chunk name = "latest">
 
-	<Key name="aggression.rank"		value = "0" />
-	<Key name="racetime"		value = "06:40.01" />
-	<Key name="position"		value = "11" />
-	<Key name="speed.rank"		value = "0" />
-	<Key name="medal"		value = "0" />
-	<Key name="skill.rank"		value = "0" />
+	<Key name="aggression.rank"		value = "1" />
+	<Key name="racetime"		value = "02:16.90" />
+	<Key name="position"		value = "1" />
+	<Key name="speed.rank"		value = "3" />
+	<Key name="medal"		value = "1" />
+	<Key name="skill.rank"		value = "3" />
 
 </Chunk>
 
@@ -853,12 +853,12 @@
 
 	<Key name="controllerpref.race"		value = "0" />
 	<Key name="controllerpref.rumble"		value = "2" />
-	<Key name="controllerpref.invertphoto"		value = "TRUE" />
 	<Key name="controllerpref.invertrace"		value = "FALSE" />
 	<Key name="camerapref.race"		value = "0" />
 	<Key name="tagpreference"		value = "2" />
 	<Key name="controllerpref.sixaxissensitivity"		value = "1" />
 	<Key name="controllerpref.musiccontrol"		value = "FALSE" />
+	<Key name="controllerpref.invertphoto"		value = "TRUE" />
 
 </Chunk>
 
@@ -971,6 +971,7 @@
 	<Key name="dust_to_dust.aggressionpoints"		value = "2012.67" />
 	<Key name="gravedigger.unlocked"		value = "TRUE" />
 	<Key name="heavy_petting.speedrank"		value = "3" />
+	<Key name="gravedigger.speedpoints"		value = "197.37" />
 	<Key name="seeking_refuge.skillrank"		value = "0" />
 	<Key name="calderaridge_easy.aggressionpoints"		value = "300.00" />
 	<Key name="coastline_run.aggressionrank"		value = "1" />
@@ -984,6 +985,8 @@
 	<Key name="stick_in_the_mud.aggressionpoints"		value = "2030.74" />
 	<Key name="crack_down.new"		value = "TRUE" />
 	<Key name="riding_the_wave.speedpoints"		value = "208.54" />
+	<Key name="gravedigger.bestmedal"		value = "2" />
+	<Key name="gravedigger.aggressionrank"		value = "3" />
 	<Key name="marked_for_death.skillrank"		value = "0" />
 	<Key name="out_of_the_frying_pan.aggressionrank"		value = "3" />
 	<Key name="blind_rage.skillpoints"		value = "35.59" />
@@ -1088,6 +1091,7 @@
 	<Key name="obliteration.bestmedal"		value = "1" />
 	<Key name="treasure_hunter.unlocked"		value = "TRUE" />
 	<Key name="pedal_to_the_floor.speedpoints"		value = "7.81" />
+	<Key name="air_time.skillpoints"		value = "223.95" />
 	<Key name="short_and_sweet.speedpoints"		value = "12.97" />
 	<Key name="heavy_water.speedrank"		value = "3" />
 	<Key name="vertigo.unlocked"		value = "TRUE" />
@@ -1095,10 +1099,7 @@
 	<Key name="oblivion.speedrank"		value = "0" />
 	<Key name="needle_in_a_haystack.new"		value = "TRUE" />
 	<Key name="shadow_of_the.new"		value = "TRUE" />
-	<Key name="heavy_water.aggressionrank"		value = "3" />
 	<Key name="obliteration.unlocked"		value = "TRUE" />
-	<Key name="circus_freaks.new"		value = "TRUE" />
-	<Key name="out_of_the_frying_pan.skillrank"		value = "0" />
 	<Key name="no_escape.skillrank"		value = "0" />
 	<Key name="crack_down.speedpoints"		value = "201.97" />
 	<Key name="ghost_town.unlocked"		value = "TRUE" />
@@ -1127,6 +1128,7 @@
 	<Key name="driftwood.aggressionpoints"		value = "3153.82" />
 	<Key name="blind_rage.aggressionpoints"		value = "1460.00" />
 	<Key name="pedal_to_the_floor.unlocked"		value = "TRUE" />
+	<Key name="air_time.speedrank"		value = "3" />
 	<Key name="driftwood.unlocked"		value = "TRUE" />
 	<Key name="crack_down.speedrank"		value = "3" />
 	<Key name="needle_in_a_haystack.speedpoints"		value = "268.73" />
@@ -1198,6 +1200,7 @@
 	<Key name="devil's_punch_bowl.skillrank"		value = "3" />
 	<Key name="heavy_wait.aggressionrank"		value = "3" />
 	<Key name="treasure_hunter.aggressionpoints"		value = "160.00" />
+	<Key name="gravedigger.speedrank"		value = "3" />
 	<Key name="mud_in_your_eye.skillpoints"		value = "82.65" />
 	<Key name="observe_this.skillpoints"		value = "580.34" />
 	<Key name="pedal_to_the_floor.bestmedal"		value = "2" />
@@ -1240,6 +1243,7 @@
 	<Key name="short_and_sweet.new"		value = "TRUE" />
 	<Key name="seeking_refuge.speedrank"		value = "3" />
 	<Key name="sling_shot.aggressionrank"		value = "3" />
+	<Key name="air_time.skillrank"		value = "3" />
 	<Key name="heavy_petting.new"		value = "TRUE" />
 	<Key name="crack_down.skillrank"		value = "0" />
 	<Key name="obliteration.new"		value = "TRUE" />
@@ -1283,6 +1287,7 @@
 	<Key name="dust_to_dust.speedpoints"		value = "282.07" />
 	<Key name="oblivion.bestmedal"		value = "3" />
 	<Key name="sling_shot.unlocked"		value = "TRUE" />
+	<Key name="gravedigger.aggressionpoints"		value = "4075.51" />
 	<Key name="light_fantastic.aggressionrank"		value = "3" />
 	<Key name="hot_under_the_collar.aggressionpoints"		value = "1872.53" />
 	<Key name="wasted.skillrank"		value = "3" />
@@ -1307,7 +1312,9 @@
 	<Key name="marked_for_death.speedpoints"		value = "187.94" />
 	<Key name="ridge_run.new"		value = "TRUE" />
 	<Key name="fire_in_the_hole.aggressionpoints"		value = "822.28" />
+	<Key name="gravedigger.skillrank"		value = "0" />
 	<Key name="no_escape.unlocked"		value = "TRUE" />
+	<Key name="air_time.bestmedal"		value = "1" />
 	<Key name="cracked_up.speedpoints"		value = "218.11" />
 	<Key name="deep_trouble.unlocked"		value = "TRUE" />
 	<Key name="tunnel_run.unlocked"		value = "TRUE" />
@@ -1427,11 +1434,14 @@
 	<Key name="seeking_refuge.speedpoints"		value = "0.00" />
 	<Key name="buggy_as_hell.speedrank"		value = "0" />
 	<Key name="trail_of_destruction.aggressionpoints"		value = "4215.52" />
+	<Key name="air_time.aggressionpoints"		value = "250.00" />
 	<Key name="observe_this.bestmedal"		value = "1" />
 	<Key name="air_time.unlocked"		value = "TRUE" />
 	<Key name="mud_in_your_eye.aggressionpoints"		value = "320.00" />
 	<Key name="happy_trails.skillrank"		value = "0" />
 	<Key name="rigged_for_destruction.skillpoints"		value = "384.51" />
+	<Key name="air_time.speedpoints"		value = "136.90" />
+	<Key name="air_time.aggressionrank"		value = "1" />
 	<Key name="air_born.bestmedal"		value = "1" />
 	<Key name="seeking_refuge.new"		value = "TRUE" />
 	<Key name="the_downward_spiral.bestmedal"		value = "1" />
@@ -1448,6 +1458,9 @@
 	<Key name="colossuscanyon_medium.aggressionrank"		value = "0" />
 	<Key name="heavy_petting.aggressionrank"		value = "3" />
 	<Key name="observe_this.unlocked"		value = "TRUE" />
+	<Key name="heavy_water.aggressionrank"		value = "3" />
+	<Key name="circus_freaks.new"		value = "TRUE" />
+	<Key name="out_of_the_frying_pan.skillrank"		value = "0" />
 
 </Chunk>
 
@@ -1467,7 +1480,7 @@
 	<Key name="track_sugarplant.wins"		value = "2" />
 	<Key name="track_jurassicwaterfall.wins"		value = "3" />
 	<Key name="track_blackrock.wins"		value = "2" />
-	<Key name="track_raingod_spire.wins"		value = "3" />
+	<Key name="track_raingod_spire.wins"		value = "4" />
 	<Key name="track_happy_jungle.wins"		value = "3" />
 
 </Chunk>
@@ -1484,8 +1497,6 @@
 	<Key name="beginner"		value = "FALSE" />
 	<Key name="over achiever"		value = "FALSE" />
 	<Key name="time sink"		value = "FALSE" />
-	<Key name="atv"		value = "FALSE" />
-	<Key name="legend"		value = "FALSE" />
 	<Key name="rookie"		value = "FALSE" />
 	<Key name="racing truck"		value = "TRUE" />
 	<Key name="veteran"		value = "FALSE" />
@@ -1524,6 +1535,8 @@
 	<Key name="survivor"		value = "FALSE" />
 	<Key name="race fan"		value = "FALSE" />
 	<Key name="bully"		value = "FALSE" />
+	<Key name="atv"		value = "FALSE" />
+	<Key name="legend"		value = "FALSE" />
 
 </Chunk>
 
@@ -1565,7 +1578,6 @@
 
 <Chunk name = "vehiclelams">
 
-	<Key name="livery.rallycar07"		value = "3397" />
 	<Key name="livery.rallycar20"		value = "3410" />
 	<Key name="livery.rallycar21"		value = "3411" />
 	<Key name="livery.rallycar22"		value = "3412" />
@@ -1664,6 +1676,7 @@
 	<Key name="livery.rallycar04"		value = "3394" />
 	<Key name="livery.rallycar05"		value = "3395" />
 	<Key name="livery.rallycar06"		value = "3396" />
+	<Key name="livery.rallycar07"		value = "3397" />
 
 </Chunk>
 
